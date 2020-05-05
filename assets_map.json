@@ -2,2541 +2,2795 @@
     "Desc_ConveyorPole_C": {
         "className": "Desc_ConveyorPole_C",
         "slug": "conveyor-pole",
+        "name": "Conveyor Pole",
         "assets": {
-            "original": "assets/images/conveyor-pole.png",
-            "64": "assets/images/conveyor-pole_64.png",
-            "128": "assets/images/conveyor-pole_128.png",
-            "256": "assets/images/conveyor-pole_256.png"
+            "original": "./assets/images/conveyor-pole.png",
+            "64": "./assets/images/conveyor-pole_64.png",
+            "128": "./assets/images/conveyor-pole_128.png",
+            "256": "./assets/images/conveyor-pole_256.png"
         }
     },
     "Desc_ConveyorBeltMk1_C": {
         "className": "Desc_ConveyorBeltMk1_C",
         "slug": "conveyor-belt",
+        "name": "Conveyor Belt",
         "assets": {
-            "original": "assets/images/conveyor-belt.png",
-            "64": "assets/images/conveyor-belt_64.png",
-            "128": "assets/images/conveyor-belt_128.png",
-            "256": "assets/images/conveyor-belt_256.png"
+            "original": "./assets/images/conveyor-belt.png",
+            "64": "./assets/images/conveyor-belt_64.png",
+            "128": "./assets/images/conveyor-belt_128.png",
+            "256": "./assets/images/conveyor-belt_256.png"
         }
     },
     "Desc_ConveyorBeltMk5_C": {
         "className": "Desc_ConveyorBeltMk5_C",
-        "slug": "conveyor-belt-mk",
+        "slug": "conveyor-belt-mk-5",
+        "name": "Conveyor Belt Mk.5",
         "assets": {
-            "original": "assets/images/conveyor-belt-mk-5.png",
-            "64": "assets/images/conveyor-belt-mk-5_64.png",
-            "128": "assets/images/conveyor-belt-mk-5_128.png",
-            "256": "assets/images/conveyor-belt-mk-5_256.png"
+            "original": "./assets/images/conveyor-belt-mk-5.png",
+            "64": "./assets/images/conveyor-belt-mk-5_64.png",
+            "128": "./assets/images/conveyor-belt-mk-5_128.png",
+            "256": "./assets/images/conveyor-belt-mk-5_256.png"
         }
     },
     "Desc_ConveyorBeltMk2_C": {
         "className": "Desc_ConveyorBeltMk2_C",
-        "slug": "conveyor-belt-mk",
+        "slug": "conveyor-belt-mk-2",
+        "name": "Conveyor Belt Mk.2",
         "assets": {
-            "original": "assets/images/conveyor-belt-mk-2.png",
-            "64": "assets/images/conveyor-belt-mk-2_64.png",
-            "128": "assets/images/conveyor-belt-mk-2_128.png",
-            "256": "assets/images/conveyor-belt-mk-2_256.png"
+            "original": "./assets/images/conveyor-belt-mk-2.png",
+            "64": "./assets/images/conveyor-belt-mk-2_64.png",
+            "128": "./assets/images/conveyor-belt-mk-2_128.png",
+            "256": "./assets/images/conveyor-belt-mk-2_256.png"
         }
     },
     "Desc_ConveyorBeltMk3_C": {
         "className": "Desc_ConveyorBeltMk3_C",
-        "slug": "conveyor-belt-mk",
+        "slug": "conveyor-belt-mk-3",
+        "name": "Conveyor Belt Mk.3",
         "assets": {
-            "original": "assets/images/conveyor-belt-mk-3.png",
-            "64": "assets/images/conveyor-belt-mk-3_64.png",
-            "128": "assets/images/conveyor-belt-mk-3_128.png",
-            "256": "assets/images/conveyor-belt-mk-3_256.png"
+            "original": "./assets/images/conveyor-belt-mk-3.png",
+            "64": "./assets/images/conveyor-belt-mk-3_64.png",
+            "128": "./assets/images/conveyor-belt-mk-3_128.png",
+            "256": "./assets/images/conveyor-belt-mk-3_256.png"
         }
     },
     "Desc_ConveyorBeltMk4_C": {
         "className": "Desc_ConveyorBeltMk4_C",
-        "slug": "conveyor-belt-mk",
+        "slug": "conveyor-belt-mk-4",
+        "name": "Conveyor Belt Mk.4",
         "assets": {
-            "original": "assets/images/conveyor-belt-mk-4.png",
-            "64": "assets/images/conveyor-belt-mk-4_64.png",
-            "128": "assets/images/conveyor-belt-mk-4_128.png",
-            "256": "assets/images/conveyor-belt-mk-4_256.png"
+            "original": "./assets/images/conveyor-belt-mk-4.png",
+            "64": "./assets/images/conveyor-belt-mk-4_64.png",
+            "128": "./assets/images/conveyor-belt-mk-4_128.png",
+            "256": "./assets/images/conveyor-belt-mk-4_256.png"
         }
     },
     "Desc_PowerLine_C": {
         "className": "Desc_PowerLine_C",
         "slug": "power-line",
+        "name": "Power Line",
         "assets": {
-            "original": "assets/images/power-line.png",
-            "64": "assets/images/power-line_64.png",
-            "128": "assets/images/power-line_128.png",
-            "256": "assets/images/power-line_256.png"
+            "original": "./assets/images/power-line.png",
+            "64": "./assets/images/power-line_64.png",
+            "128": "./assets/images/power-line_128.png",
+            "256": "./assets/images/power-line_256.png"
         }
     },
     "Desc_PowerPoleMk1_C": {
         "className": "Desc_PowerPoleMk1_C",
         "slug": "power-pole",
+        "name": "Power Pole",
         "assets": {
-            "original": "assets/images/power-pole.png",
-            "64": "assets/images/power-pole_64.png",
-            "128": "assets/images/power-pole_128.png",
-            "256": "assets/images/power-pole_256.png"
+            "original": "./assets/images/power-pole.png",
+            "64": "./assets/images/power-pole_64.png",
+            "128": "./assets/images/power-pole_128.png",
+            "256": "./assets/images/power-pole_256.png"
         }
     },
     "Desc_PowerPoleMk2_C": {
         "className": "Desc_PowerPoleMk2_C",
-        "slug": "power-pole-mk",
+        "slug": "power-pole-mk-2",
+        "name": "Power Pole Mk.2",
         "assets": {
-            "original": "assets/images/power-pole-mk-2.png",
-            "64": "assets/images/power-pole-mk-2_64.png",
-            "128": "assets/images/power-pole-mk-2_128.png",
-            "256": "assets/images/power-pole-mk-2_256.png"
+            "original": "./assets/images/power-pole-mk-2.png",
+            "64": "./assets/images/power-pole-mk-2_64.png",
+            "128": "./assets/images/power-pole-mk-2_128.png",
+            "256": "./assets/images/power-pole-mk-2_256.png"
         }
     },
     "Desc_PowerPoleMk3_C": {
         "className": "Desc_PowerPoleMk3_C",
-        "slug": "power-pole-mk",
+        "slug": "power-pole-mk-3",
+        "name": "Power Pole Mk.3",
         "assets": {
-            "original": "assets/images/power-pole-mk-3.png",
-            "64": "assets/images/power-pole-mk-3_64.png",
-            "128": "assets/images/power-pole-mk-3_128.png",
-            "256": "assets/images/power-pole-mk-3_256.png"
+            "original": "./assets/images/power-pole-mk-3.png",
+            "64": "./assets/images/power-pole-mk-3_64.png",
+            "128": "./assets/images/power-pole-mk-3_128.png",
+            "256": "./assets/images/power-pole-mk-3_256.png"
         }
     },
     "Desc_GeneratorFuel_C": {
         "className": "Desc_GeneratorFuel_C",
         "slug": "fuel-generator",
+        "name": "Fuel Generator",
         "assets": {
-            "original": "assets/images/fuel-generator.png",
-            "64": "assets/images/fuel-generator_64.png",
-            "128": "assets/images/fuel-generator_128.png",
-            "256": "assets/images/fuel-generator_256.png"
+            "original": "./assets/images/fuel-generator.png",
+            "64": "./assets/images/fuel-generator_64.png",
+            "128": "./assets/images/fuel-generator_128.png",
+            "256": "./assets/images/fuel-generator_256.png"
         }
     },
     "Desc_GeneratorBiomass_C": {
         "className": "Desc_GeneratorBiomass_C",
         "slug": "biomass-burner",
+        "name": "Biomass Burner",
         "assets": {
-            "original": "assets/images/biomass-burner.png",
-            "64": "assets/images/biomass-burner_64.png",
-            "128": "assets/images/biomass-burner_128.png",
-            "256": "assets/images/biomass-burner_256.png"
+            "original": "./assets/images/biomass-burner.png",
+            "64": "./assets/images/biomass-burner_64.png",
+            "128": "./assets/images/biomass-burner_128.png",
+            "256": "./assets/images/biomass-burner_256.png"
         }
     },
     "Desc_GeneratorCoal_C": {
         "className": "Desc_GeneratorCoal_C",
         "slug": "coal-generator",
+        "name": "Coal Generator",
         "assets": {
-            "original": "assets/images/coal-generator.png",
-            "64": "assets/images/coal-generator_64.png",
-            "128": "assets/images/coal-generator_128.png",
-            "256": "assets/images/coal-generator_256.png"
+            "original": "./assets/images/coal-generator.png",
+            "64": "./assets/images/coal-generator_64.png",
+            "128": "./assets/images/coal-generator_128.png",
+            "256": "./assets/images/coal-generator_256.png"
         }
     },
     "Desc_TradingPost_C": {
         "className": "Desc_TradingPost_C",
         "slug": "the-hub",
+        "name": "The HUB",
         "assets": {
-            "original": "assets/images/the-hub.png",
-            "64": "assets/images/the-hub_64.png",
-            "128": "assets/images/the-hub_128.png",
-            "256": "assets/images/the-hub_256.png"
+            "original": "./assets/images/the-hub.png",
+            "64": "./assets/images/the-hub_64.png",
+            "128": "./assets/images/the-hub_128.png",
+            "256": "./assets/images/the-hub_256.png"
         }
     },
     "Desc_SpaceElevator_C": {
         "className": "Desc_SpaceElevator_C",
         "slug": "space-elevator",
+        "name": "Space Elevator",
         "assets": {
-            "original": "assets/images/space-elevator.png",
-            "64": "assets/images/space-elevator_64.png",
-            "128": "assets/images/space-elevator_128.png",
-            "256": "assets/images/space-elevator_256.png"
+            "original": "./assets/images/space-elevator.png",
+            "64": "./assets/images/space-elevator_64.png",
+            "128": "./assets/images/space-elevator_128.png",
+            "256": "./assets/images/space-elevator_256.png"
         }
     },
     "Desc_ConstructorMk1_C": {
         "className": "Desc_ConstructorMk1_C",
         "slug": "constructor",
+        "name": "Constructor",
         "assets": {
-            "original": "assets/images/constructor.png",
-            "64": "assets/images/constructor_64.png",
-            "128": "assets/images/constructor_128.png",
-            "256": "assets/images/constructor_256.png"
+            "original": "./assets/images/constructor.png",
+            "64": "./assets/images/constructor_64.png",
+            "128": "./assets/images/constructor_128.png",
+            "256": "./assets/images/constructor_256.png"
         }
     },
     "Desc_SmelterMk1_C": {
         "className": "Desc_SmelterMk1_C",
         "slug": "smelter",
+        "name": "Smelter",
         "assets": {
-            "original": "assets/images/smelter.png",
-            "64": "assets/images/smelter_64.png",
-            "128": "assets/images/smelter_128.png",
-            "256": "assets/images/smelter_256.png"
+            "original": "./assets/images/smelter.png",
+            "64": "./assets/images/smelter_64.png",
+            "128": "./assets/images/smelter_128.png",
+            "256": "./assets/images/smelter_256.png"
         }
     },
     "Desc_OilRefinery_C": {
         "className": "Desc_OilRefinery_C",
         "slug": "refinery",
+        "name": "Refinery",
         "assets": {
-            "original": "assets/images/refinery.png",
-            "64": "assets/images/refinery_64.png",
-            "128": "assets/images/refinery_128.png",
-            "256": "assets/images/refinery_256.png"
+            "original": "./assets/images/refinery.png",
+            "64": "./assets/images/refinery_64.png",
+            "128": "./assets/images/refinery_128.png",
+            "256": "./assets/images/refinery_256.png"
         }
     },
     "Desc_AssemblerMk1_C": {
         "className": "Desc_AssemblerMk1_C",
         "slug": "assembler",
+        "name": "Assembler",
         "assets": {
-            "original": "assets/images/assembler.png",
-            "64": "assets/images/assembler_64.png",
-            "128": "assets/images/assembler_128.png",
-            "256": "assets/images/assembler_256.png"
+            "original": "./assets/images/assembler.png",
+            "64": "./assets/images/assembler_64.png",
+            "128": "./assets/images/assembler_128.png",
+            "256": "./assets/images/assembler_256.png"
         }
     },
     "Desc_ManufacturerMk1_C": {
         "className": "Desc_ManufacturerMk1_C",
         "slug": "manufacturer",
+        "name": "Manufacturer",
         "assets": {
-            "original": "assets/images/manufacturer.png",
-            "64": "assets/images/manufacturer_64.png",
-            "128": "assets/images/manufacturer_128.png",
-            "256": "assets/images/manufacturer_256.png"
+            "original": "./assets/images/manufacturer.png",
+            "64": "./assets/images/manufacturer_64.png",
+            "128": "./assets/images/manufacturer_128.png",
+            "256": "./assets/images/manufacturer_256.png"
         }
     },
     "Desc_FoundryMk1_C": {
         "className": "Desc_FoundryMk1_C",
         "slug": "foundry",
+        "name": "Foundry",
         "assets": {
-            "original": "assets/images/foundry.png",
-            "64": "assets/images/foundry_64.png",
-            "128": "assets/images/foundry_128.png",
-            "256": "assets/images/foundry_256.png"
+            "original": "./assets/images/foundry.png",
+            "64": "./assets/images/foundry_64.png",
+            "128": "./assets/images/foundry_128.png",
+            "256": "./assets/images/foundry_256.png"
         }
     },
     "Desc_WaterPump_C": {
         "className": "Desc_WaterPump_C",
         "slug": "water-extractor",
+        "name": "Water Extractor",
         "assets": {
-            "original": "assets/images/water-extractor.png",
-            "64": "assets/images/water-extractor_64.png",
-            "128": "assets/images/water-extractor_128.png",
-            "256": "assets/images/water-extractor_256.png"
+            "original": "./assets/images/water-extractor.png",
+            "64": "./assets/images/water-extractor_64.png",
+            "128": "./assets/images/water-extractor_128.png",
+            "256": "./assets/images/water-extractor_256.png"
         }
     },
     "Desc_MinerMk1_C": {
         "className": "Desc_MinerMk1_C",
-        "slug": "miner-mk",
+        "slug": "miner-mk-1",
+        "name": "Miner Mk.1",
         "assets": {
-            "original": "assets/images/miner-mk-1.png",
-            "64": "assets/images/miner-mk-1_64.png",
-            "128": "assets/images/miner-mk-1_128.png",
-            "256": "assets/images/miner-mk-1_256.png"
+            "original": "./assets/images/miner-mk-1.png",
+            "64": "./assets/images/miner-mk-1_64.png",
+            "128": "./assets/images/miner-mk-1_128.png",
+            "256": "./assets/images/miner-mk-1_256.png"
         }
     },
     "Desc_OilPump_C": {
         "className": "Desc_OilPump_C",
         "slug": "oil-extractor",
+        "name": "Oil Extractor",
         "assets": {
-            "original": "assets/images/oil-extractor.png",
-            "64": "assets/images/oil-extractor_64.png",
-            "128": "assets/images/oil-extractor_128.png",
-            "256": "assets/images/oil-extractor_256.png"
+            "original": "./assets/images/oil-extractor.png",
+            "64": "./assets/images/oil-extractor_64.png",
+            "128": "./assets/images/oil-extractor_128.png",
+            "256": "./assets/images/oil-extractor_256.png"
         }
     },
     "Desc_MinerMk2_C": {
         "className": "Desc_MinerMk2_C",
-        "slug": "miner-mk",
+        "slug": "miner-mk-2",
+        "name": "Miner Mk.2",
         "assets": {
-            "original": "assets/images/miner-mk-2.png",
-            "64": "assets/images/miner-mk-2_64.png",
-            "128": "assets/images/miner-mk-2_128.png",
-            "256": "assets/images/miner-mk-2_256.png"
+            "original": "./assets/images/miner-mk-2.png",
+            "64": "./assets/images/miner-mk-2_64.png",
+            "128": "./assets/images/miner-mk-2_128.png",
+            "256": "./assets/images/miner-mk-2_256.png"
         }
     },
     "Desc_MinerMk3_C": {
         "className": "Desc_MinerMk3_C",
-        "slug": "miner-mk",
+        "slug": "miner-mk-3",
+        "name": "Miner Mk.3",
         "assets": {
-            "original": "assets/images/miner-mk-3.png",
-            "64": "assets/images/miner-mk-3_64.png",
-            "128": "assets/images/miner-mk-3_128.png",
-            "256": "assets/images/miner-mk-3_256.png"
+            "original": "./assets/images/miner-mk-3.png",
+            "64": "./assets/images/miner-mk-3_64.png",
+            "128": "./assets/images/miner-mk-3_128.png",
+            "256": "./assets/images/miner-mk-3_256.png"
         }
     },
     "Desc_StorageContainerMk1_C": {
         "className": "Desc_StorageContainerMk1_C",
         "slug": "storage-container",
+        "name": "Storage Container",
         "assets": {
-            "original": "assets/images/storage-container.png",
-            "64": "assets/images/storage-container_64.png",
-            "128": "assets/images/storage-container_128.png",
-            "256": "assets/images/storage-container_256.png"
+            "original": "./assets/images/storage-container.png",
+            "64": "./assets/images/storage-container_64.png",
+            "128": "./assets/images/storage-container_128.png",
+            "256": "./assets/images/storage-container_256.png"
         }
     },
     "Desc_StoragePlayer_C": {
         "className": "Desc_StoragePlayer_C",
         "slug": "personal-storage-box",
+        "name": "Personal Storage Box",
         "assets": {
-            "original": "assets/images/personal-storage-box.png",
-            "64": "assets/images/personal-storage-box_64.png",
-            "128": "assets/images/personal-storage-box_128.png",
-            "256": "assets/images/personal-storage-box_256.png"
+            "original": "./assets/images/personal-storage-box.png",
+            "64": "./assets/images/personal-storage-box_64.png",
+            "128": "./assets/images/personal-storage-box_128.png",
+            "256": "./assets/images/personal-storage-box_256.png"
         }
     },
     "Desc_StorageContainerMk2_C": {
         "className": "Desc_StorageContainerMk2_C",
         "slug": "industrial-storage-container",
+        "name": "Industrial Storage Container",
         "assets": {
-            "original": "assets/images/industrial-storage-container.png",
-            "64": "assets/images/industrial-storage-container_64.png",
-            "128": "assets/images/industrial-storage-container_128.png",
-            "256": "assets/images/industrial-storage-container_256.png"
+            "original": "./assets/images/industrial-storage-container.png",
+            "64": "./assets/images/industrial-storage-container_64.png",
+            "128": "./assets/images/industrial-storage-container_128.png",
+            "256": "./assets/images/industrial-storage-container_256.png"
         }
     },
     "Desc_WorkBench_C": {
         "className": "Desc_WorkBench_C",
         "slug": "craft-bench",
+        "name": "Craft Bench",
         "assets": {
-            "original": "assets/images/craft-bench.png",
-            "64": "assets/images/craft-bench_64.png",
-            "128": "assets/images/craft-bench_128.png",
-            "256": "assets/images/craft-bench_256.png"
+            "original": "./assets/images/craft-bench.png",
+            "64": "./assets/images/craft-bench_64.png",
+            "128": "./assets/images/craft-bench_128.png",
+            "256": "./assets/images/craft-bench_256.png"
         }
     },
     "Desc_Workshop_C": {
         "className": "Desc_Workshop_C",
         "slug": "equipment-workshop",
+        "name": "Equipment Workshop",
         "assets": {
-            "original": "assets/images/equipment-workshop.png",
-            "64": "assets/images/equipment-workshop_64.png",
-            "128": "assets/images/equipment-workshop_128.png",
-            "256": "assets/images/equipment-workshop_256.png"
+            "original": "./assets/images/equipment-workshop.png",
+            "64": "./assets/images/equipment-workshop_64.png",
+            "128": "./assets/images/equipment-workshop_128.png",
+            "256": "./assets/images/equipment-workshop_256.png"
         }
     },
     "Desc_Mam_C": {
         "className": "Desc_Mam_C",
-        "slug": "",
+        "slug": "m-a-m",
+        "name": "M.A.M.",
         "assets": {
-            "original": "assets/images/m-a-m-.png",
-            "64": "assets/images/m-a-m-_64.png",
-            "128": "assets/images/m-a-m-_128.png",
-            "256": "assets/images/m-a-m-_256.png"
+            "original": "./assets/images/m-a-m.png",
+            "64": "./assets/images/m-a-m_64.png",
+            "128": "./assets/images/m-a-m_128.png",
+            "256": "./assets/images/m-a-m_256.png"
         }
     },
     "Desc_ConveyorPoleWall_C": {
         "className": "Desc_ConveyorPoleWall_C",
         "slug": "conveyor-wall-mount",
+        "name": "Conveyor Wall Mount",
         "assets": {
-            "original": "assets/images/conveyor-wall-mount.png",
-            "64": "assets/images/conveyor-wall-mount_64.png",
-            "128": "assets/images/conveyor-wall-mount_128.png",
-            "256": "assets/images/conveyor-wall-mount_256.png"
+            "original": "./assets/images/conveyor-wall-mount.png",
+            "64": "./assets/images/conveyor-wall-mount_64.png",
+            "128": "./assets/images/conveyor-wall-mount_128.png",
+            "256": "./assets/images/conveyor-wall-mount_256.png"
         }
     },
     "Desc_HyperTubeWallHole_C": {
         "className": "Desc_HyperTubeWallHole_C",
         "slug": "hyper-tube-wall-hole",
+        "name": "Hyper Tube Wall Hole",
         "assets": {
-            "original": "assets/images/hyper-tube-wall-hole.png",
-            "64": "assets/images/hyper-tube-wall-hole_64.png",
-            "128": "assets/images/hyper-tube-wall-hole_128.png",
-            "256": "assets/images/hyper-tube-wall-hole_256.png"
+            "original": "./assets/images/hyper-tube-wall-hole.png",
+            "64": "./assets/images/hyper-tube-wall-hole_64.png",
+            "128": "./assets/images/hyper-tube-wall-hole_128.png",
+            "256": "./assets/images/hyper-tube-wall-hole_256.png"
         }
     },
     "Desc_HyperTubeWallSupport_C": {
         "className": "Desc_HyperTubeWallSupport_C",
         "slug": "hyper-tube-wall-support",
+        "name": "Hyper Tube Wall Support",
         "assets": {
-            "original": "assets/images/hyper-tube-wall-support.png",
-            "64": "assets/images/hyper-tube-wall-support_64.png",
-            "128": "assets/images/hyper-tube-wall-support_128.png",
-            "256": "assets/images/hyper-tube-wall-support_256.png"
+            "original": "./assets/images/hyper-tube-wall-support.png",
+            "64": "./assets/images/hyper-tube-wall-support_64.png",
+            "128": "./assets/images/hyper-tube-wall-support_128.png",
+            "256": "./assets/images/hyper-tube-wall-support_256.png"
         }
     },
     "Desc_PipelineSupportWall_C": {
         "className": "Desc_PipelineSupportWall_C",
         "slug": "pipeline-wall-support",
+        "name": "Pipeline Wall Support",
         "assets": {
-            "original": "assets/images/pipeline-wall-support.png",
-            "64": "assets/images/pipeline-wall-support_64.png",
-            "128": "assets/images/pipeline-wall-support_128.png",
-            "256": "assets/images/pipeline-wall-support_256.png"
+            "original": "./assets/images/pipeline-wall-support.png",
+            "64": "./assets/images/pipeline-wall-support_64.png",
+            "128": "./assets/images/pipeline-wall-support_128.png",
+            "256": "./assets/images/pipeline-wall-support_256.png"
         }
     },
     "Desc_PipelineSupportWallHole_C": {
         "className": "Desc_PipelineSupportWallHole_C",
         "slug": "pipeline-wall-hole",
+        "name": "Pipeline Wall Hole",
         "assets": {
-            "original": "assets/images/pipeline-wall-hole.png",
-            "64": "assets/images/pipeline-wall-hole_64.png",
-            "128": "assets/images/pipeline-wall-hole_128.png",
-            "256": "assets/images/pipeline-wall-hole_256.png"
+            "original": "./assets/images/pipeline-wall-hole.png",
+            "64": "./assets/images/pipeline-wall-hole_64.png",
+            "128": "./assets/images/pipeline-wall-hole_128.png",
+            "256": "./assets/images/pipeline-wall-hole_256.png"
         }
     },
     "Desc_PowerPoleWall_C": {
         "className": "Desc_PowerPoleWall_C",
         "slug": "wall-power-pole",
+        "name": "Wall Power Pole",
         "assets": {
-            "original": "assets/images/wall-power-pole.png",
-            "64": "assets/images/wall-power-pole_64.png",
-            "128": "assets/images/wall-power-pole_128.png",
-            "256": "assets/images/wall-power-pole_256.png"
+            "original": "./assets/images/wall-power-pole.png",
+            "64": "./assets/images/wall-power-pole_64.png",
+            "128": "./assets/images/wall-power-pole_128.png",
+            "256": "./assets/images/wall-power-pole_256.png"
         }
     },
     "Desc_PowerPoleWallDouble_C": {
         "className": "Desc_PowerPoleWallDouble_C",
         "slug": "double-sided-wall-power-pole",
+        "name": "Double-sided Wall Power Pole",
         "assets": {
-            "original": "assets/images/double-sided-wall-power-pole.png",
-            "64": "assets/images/double-sided-wall-power-pole_64.png",
-            "128": "assets/images/double-sided-wall-power-pole_128.png",
-            "256": "assets/images/double-sided-wall-power-pole_256.png"
+            "original": "./assets/images/double-sided-wall-power-pole.png",
+            "64": "./assets/images/double-sided-wall-power-pole_64.png",
+            "128": "./assets/images/double-sided-wall-power-pole_128.png",
+            "256": "./assets/images/double-sided-wall-power-pole_256.png"
         }
     },
     "Desc_PowerPoleWallDouble_Mk2_C": {
         "className": "Desc_PowerPoleWallDouble_Mk2_C",
-        "slug": "double-sided-wall-power-pole-mk",
+        "slug": "double-sided-wall-power-pole-mk-2",
+        "name": "Double-sided Wall Power Pole Mk.2",
         "assets": {
-            "original": "assets/images/double-sided-wall-power-pole-mk-2.png",
-            "64": "assets/images/double-sided-wall-power-pole-mk-2_64.png",
-            "128": "assets/images/double-sided-wall-power-pole-mk-2_128.png",
-            "256": "assets/images/double-sided-wall-power-pole-mk-2_256.png"
+            "original": "./assets/images/double-sided-wall-power-pole-mk-2.png",
+            "64": "./assets/images/double-sided-wall-power-pole-mk-2_64.png",
+            "128": "./assets/images/double-sided-wall-power-pole-mk-2_128.png",
+            "256": "./assets/images/double-sided-wall-power-pole-mk-2_256.png"
         }
     },
     "Desc_PowerPoleWall_Mk2_C": {
         "className": "Desc_PowerPoleWall_Mk2_C",
-        "slug": "wall-power-pole-mk",
+        "slug": "wall-power-pole-mk-2",
+        "name": "Wall Power Pole Mk.2",
         "assets": {
-            "original": "assets/images/wall-power-pole-mk-2.png",
-            "64": "assets/images/wall-power-pole-mk-2_64.png",
-            "128": "assets/images/wall-power-pole-mk-2_128.png",
-            "256": "assets/images/wall-power-pole-mk-2_256.png"
+            "original": "./assets/images/wall-power-pole-mk-2.png",
+            "64": "./assets/images/wall-power-pole-mk-2_64.png",
+            "128": "./assets/images/wall-power-pole-mk-2_128.png",
+            "256": "./assets/images/wall-power-pole-mk-2_256.png"
         }
     },
     "Desc_PowerPoleWallDouble_Mk3_C": {
         "className": "Desc_PowerPoleWallDouble_Mk3_C",
-        "slug": "double-sided-wall-power-pole-mk",
+        "slug": "double-sided-wall-power-pole-mk-3",
+        "name": "Double-sided Wall Power Pole Mk.3",
         "assets": {
-            "original": "assets/images/double-sided-wall-power-pole-mk-3.png",
-            "64": "assets/images/double-sided-wall-power-pole-mk-3_64.png",
-            "128": "assets/images/double-sided-wall-power-pole-mk-3_128.png",
-            "256": "assets/images/double-sided-wall-power-pole-mk-3_256.png"
+            "original": "./assets/images/double-sided-wall-power-pole-mk-3.png",
+            "64": "./assets/images/double-sided-wall-power-pole-mk-3_64.png",
+            "128": "./assets/images/double-sided-wall-power-pole-mk-3_128.png",
+            "256": "./assets/images/double-sided-wall-power-pole-mk-3_256.png"
         }
     },
     "Desc_PowerPoleWall_Mk3_C": {
         "className": "Desc_PowerPoleWall_Mk3_C",
-        "slug": "wall-power-pole-mk",
+        "slug": "wall-power-pole-mk-3",
+        "name": "Wall Power Pole Mk.3",
         "assets": {
-            "original": "assets/images/wall-power-pole-mk-3.png",
-            "64": "assets/images/wall-power-pole-mk-3_64.png",
-            "128": "assets/images/wall-power-pole-mk-3_128.png",
-            "256": "assets/images/wall-power-pole-mk-3_256.png"
+            "original": "./assets/images/wall-power-pole-mk-3.png",
+            "64": "./assets/images/wall-power-pole-mk-3_64.png",
+            "128": "./assets/images/wall-power-pole-mk-3_128.png",
+            "256": "./assets/images/wall-power-pole-mk-3_256.png"
         }
     },
     "Desc_Fence_01_C": {
         "className": "Desc_Fence_01_C",
-        "slug": "fence",
+        "slug": "fence-01",
+        "name": "Fence",
         "assets": {
-            "original": "assets/images/fence.png",
-            "64": "assets/images/fence_64.png",
-            "128": "assets/images/fence_128.png",
-            "256": "assets/images/fence_256.png"
+            "original": "./assets/images/fence-01.png",
+            "64": "./assets/images/fence-01_64.png",
+            "128": "./assets/images/fence-01_128.png",
+            "256": "./assets/images/fence-01_256.png"
         }
     },
     "Desc_Wall_Window_8x4_03_C": {
         "className": "Desc_Wall_Window_8x4_03_C",
-        "slug": "window",
+        "slug": "wall-window-03",
+        "name": "Window 8m x 4m 03",
         "assets": {
-            "original": "assets/images/window-8m-x-4m-03.png",
-            "64": "assets/images/window-8m-x-4m-03_64.png",
-            "128": "assets/images/window-8m-x-4m-03_128.png",
-            "256": "assets/images/window-8m-x-4m-03_256.png"
+            "original": "./assets/images/wall-window-03.png",
+            "64": "./assets/images/wall-window-03_64.png",
+            "128": "./assets/images/wall-window-03_128.png",
+            "256": "./assets/images/wall-window-03_256.png"
         }
     },
     "Desc_Wall_8x4_01_C": {
         "className": "Desc_Wall_8x4_01_C",
-        "slug": "wall",
+        "slug": "wall-plating",
+        "name": "Wall 8m x 4m",
         "assets": {
-            "original": "assets/images/wall-8m-x-4m.png",
-            "64": "assets/images/wall-8m-x-4m_64.png",
-            "128": "assets/images/wall-8m-x-4m_128.png",
-            "256": "assets/images/wall-8m-x-4m_256.png"
+            "original": "./assets/images/wall-plating.png",
+            "64": "./assets/images/wall-plating_64.png",
+            "128": "./assets/images/wall-plating_128.png",
+            "256": "./assets/images/wall-plating_256.png"
         }
     },
     "Desc_Wall_8x4_02_C": {
         "className": "Desc_Wall_8x4_02_C",
-        "slug": "wall",
+        "slug": "wall-sheet-metal",
+        "name": "Wall 8m x 4m",
         "assets": {
-            "original": "assets/images/wall-8m-x-4m.png",
-            "64": "assets/images/wall-8m-x-4m_64.png",
-            "128": "assets/images/wall-8m-x-4m_128.png",
-            "256": "assets/images/wall-8m-x-4m_256.png"
+            "original": "./assets/images/wall-sheet-metal.png",
+            "64": "./assets/images/wall-sheet-metal_64.png",
+            "128": "./assets/images/wall-sheet-metal_128.png",
+            "256": "./assets/images/wall-sheet-metal_256.png"
         }
     },
     "Desc_Wall_Conveyor_8x4_01_Steel_C": {
         "className": "Desc_Wall_Conveyor_8x4_01_Steel_C",
-        "slug": "wall-conveyor-x3",
+        "slug": "wall-conveyor-x1-sheet-metal",
+        "name": "Wall Conveyor x3",
         "assets": {
-            "original": "assets/images/wall-conveyor-x3.png",
-            "64": "assets/images/wall-conveyor-x3_64.png",
-            "128": "assets/images/wall-conveyor-x3_128.png",
-            "256": "assets/images/wall-conveyor-x3_256.png"
+            "original": "./assets/images/wall-conveyor-x1-sheet-metal.png",
+            "64": "./assets/images/wall-conveyor-x1-sheet-metal_64.png",
+            "128": "./assets/images/wall-conveyor-x1-sheet-metal_128.png",
+            "256": "./assets/images/wall-conveyor-x1-sheet-metal_256.png"
         }
     },
     "Desc_Wall_Conveyor_8x4_02_Steel_C": {
         "className": "Desc_Wall_Conveyor_8x4_02_Steel_C",
-        "slug": "wall-conveyor-x2",
+        "slug": "wall-conveyor-x2-sheet-metal",
+        "name": "Wall Conveyor x2",
         "assets": {
-            "original": "assets/images/wall-conveyor-x2.png",
-            "64": "assets/images/wall-conveyor-x2_64.png",
-            "128": "assets/images/wall-conveyor-x2_128.png",
-            "256": "assets/images/wall-conveyor-x2_256.png"
+            "original": "./assets/images/wall-conveyor-x2-sheet-metal.png",
+            "64": "./assets/images/wall-conveyor-x2-sheet-metal_64.png",
+            "128": "./assets/images/wall-conveyor-x2-sheet-metal_128.png",
+            "256": "./assets/images/wall-conveyor-x2-sheet-metal_256.png"
         }
     },
     "Desc_Wall_Conveyor_8x4_03_Steel_C": {
         "className": "Desc_Wall_Conveyor_8x4_03_Steel_C",
-        "slug": "wall-conveyor-x1",
+        "slug": "wall-conveyor-x3-sheet-metal",
+        "name": "Wall Conveyor x1",
         "assets": {
-            "original": "assets/images/wall-conveyor-x1.png",
-            "64": "assets/images/wall-conveyor-x1_64.png",
-            "128": "assets/images/wall-conveyor-x1_128.png",
-            "256": "assets/images/wall-conveyor-x1_256.png"
+            "original": "./assets/images/wall-conveyor-x3-sheet-metal.png",
+            "64": "./assets/images/wall-conveyor-x3-sheet-metal_64.png",
+            "128": "./assets/images/wall-conveyor-x3-sheet-metal_128.png",
+            "256": "./assets/images/wall-conveyor-x3-sheet-metal_256.png"
         }
     },
     "Desc_Wall_Conveyor_8x4_01_C": {
         "className": "Desc_Wall_Conveyor_8x4_01_C",
-        "slug": "wall-conveyor-x3",
+        "slug": "wall-conveyor-x1-plating",
+        "name": "Wall Conveyor x3",
         "assets": {
-            "original": "assets/images/wall-conveyor-x3.png",
-            "64": "assets/images/wall-conveyor-x3_64.png",
-            "128": "assets/images/wall-conveyor-x3_128.png",
-            "256": "assets/images/wall-conveyor-x3_256.png"
+            "original": "./assets/images/wall-conveyor-x1-plating.png",
+            "64": "./assets/images/wall-conveyor-x1-plating_64.png",
+            "128": "./assets/images/wall-conveyor-x1-plating_128.png",
+            "256": "./assets/images/wall-conveyor-x1-plating_256.png"
         }
     },
     "Desc_Wall_Conveyor_8x4_02_C": {
         "className": "Desc_Wall_Conveyor_8x4_02_C",
-        "slug": "wall-conveyor-x2",
+        "slug": "wall-conveyor-x2-plating",
+        "name": "Wall Conveyor x2",
         "assets": {
-            "original": "assets/images/wall-conveyor-x2.png",
-            "64": "assets/images/wall-conveyor-x2_64.png",
-            "128": "assets/images/wall-conveyor-x2_128.png",
-            "256": "assets/images/wall-conveyor-x2_256.png"
+            "original": "./assets/images/wall-conveyor-x2-plating.png",
+            "64": "./assets/images/wall-conveyor-x2-plating_64.png",
+            "128": "./assets/images/wall-conveyor-x2-plating_128.png",
+            "256": "./assets/images/wall-conveyor-x2-plating_256.png"
         }
     },
     "Desc_Wall_Conveyor_8x4_03_C": {
         "className": "Desc_Wall_Conveyor_8x4_03_C",
-        "slug": "wall-conveyor-x1",
+        "slug": "wall-conveyor-x3-plating",
+        "name": "Wall Conveyor x1",
         "assets": {
-            "original": "assets/images/wall-conveyor-x1.png",
-            "64": "assets/images/wall-conveyor-x1_64.png",
-            "128": "assets/images/wall-conveyor-x1_128.png",
-            "256": "assets/images/wall-conveyor-x1_256.png"
+            "original": "./assets/images/wall-conveyor-x3-plating.png",
+            "64": "./assets/images/wall-conveyor-x3-plating_64.png",
+            "128": "./assets/images/wall-conveyor-x3-plating_128.png",
+            "256": "./assets/images/wall-conveyor-x3-plating_256.png"
         }
     },
     "Desc_Wall_Door_8x4_01_Steel_C": {
         "className": "Desc_Wall_Door_8x4_01_Steel_C",
-        "slug": "wall-door-center",
+        "slug": "wall-door-center-sheet-metal",
+        "name": "Wall Door Center",
         "assets": {
-            "original": "assets/images/wall-door-center.png",
-            "64": "assets/images/wall-door-center_64.png",
-            "128": "assets/images/wall-door-center_128.png",
-            "256": "assets/images/wall-door-center_256.png"
+            "original": "./assets/images/wall-door-center-sheet-metal.png",
+            "64": "./assets/images/wall-door-center-sheet-metal_64.png",
+            "128": "./assets/images/wall-door-center-sheet-metal_128.png",
+            "256": "./assets/images/wall-door-center-sheet-metal_256.png"
         }
     },
     "Desc_Wall_Door_8x4_02_Steel_C": {
         "className": "Desc_Wall_Door_8x4_02_Steel_C",
-        "slug": "wall-door-left",
+        "slug": "wall-door-left-sheet-metal",
+        "name": "Wall Door Left",
         "assets": {
-            "original": "assets/images/wall-door-left.png",
-            "64": "assets/images/wall-door-left_64.png",
-            "128": "assets/images/wall-door-left_128.png",
-            "256": "assets/images/wall-door-left_256.png"
+            "original": "./assets/images/wall-door-left-sheet-metal.png",
+            "64": "./assets/images/wall-door-left-sheet-metal_64.png",
+            "128": "./assets/images/wall-door-left-sheet-metal_128.png",
+            "256": "./assets/images/wall-door-left-sheet-metal_256.png"
         }
     },
     "Desc_Wall_Door_8x4_03_Steel_C": {
         "className": "Desc_Wall_Door_8x4_03_Steel_C",
-        "slug": "wall-door-right",
+        "slug": "wall-door-right-sheet-metal",
+        "name": "Wall Door Right",
         "assets": {
-            "original": "assets/images/wall-door-right.png",
-            "64": "assets/images/wall-door-right_64.png",
-            "128": "assets/images/wall-door-right_128.png",
-            "256": "assets/images/wall-door-right_256.png"
+            "original": "./assets/images/wall-door-right-sheet-metal.png",
+            "64": "./assets/images/wall-door-right-sheet-metal_64.png",
+            "128": "./assets/images/wall-door-right-sheet-metal_128.png",
+            "256": "./assets/images/wall-door-right-sheet-metal_256.png"
         }
     },
     "Desc_Wall_Door_8x4_01_C": {
         "className": "Desc_Wall_Door_8x4_01_C",
-        "slug": "wall-door-center",
+        "slug": "wall-door-center-plating",
+        "name": "Wall Door Center",
         "assets": {
-            "original": "assets/images/wall-door-center.png",
-            "64": "assets/images/wall-door-center_64.png",
-            "128": "assets/images/wall-door-center_128.png",
-            "256": "assets/images/wall-door-center_256.png"
+            "original": "./assets/images/wall-door-center-plating.png",
+            "64": "./assets/images/wall-door-center-plating_64.png",
+            "128": "./assets/images/wall-door-center-plating_128.png",
+            "256": "./assets/images/wall-door-center-plating_256.png"
         }
     },
     "Desc_Wall_Door_8x4_02_C": {
         "className": "Desc_Wall_Door_8x4_02_C",
-        "slug": "wall-door-left",
+        "slug": "wall-door-left-plating",
+        "name": "Wall Door Left",
         "assets": {
-            "original": "assets/images/wall-door-left.png",
-            "64": "assets/images/wall-door-left_64.png",
-            "128": "assets/images/wall-door-left_128.png",
-            "256": "assets/images/wall-door-left_256.png"
+            "original": "./assets/images/wall-door-left-plating.png",
+            "64": "./assets/images/wall-door-left-plating_64.png",
+            "128": "./assets/images/wall-door-left-plating_128.png",
+            "256": "./assets/images/wall-door-left-plating_256.png"
         }
     },
     "Desc_Wall_Door_8x4_03_C": {
         "className": "Desc_Wall_Door_8x4_03_C",
-        "slug": "wall-door-right",
+        "slug": "wall-door-right-plating",
+        "name": "Wall Door Right",
         "assets": {
-            "original": "assets/images/wall-door-right.png",
-            "64": "assets/images/wall-door-right_64.png",
-            "128": "assets/images/wall-door-right_128.png",
-            "256": "assets/images/wall-door-right_256.png"
+            "original": "./assets/images/wall-door-right-plating.png",
+            "64": "./assets/images/wall-door-right-plating_64.png",
+            "128": "./assets/images/wall-door-right-plating_128.png",
+            "256": "./assets/images/wall-door-right-plating_256.png"
         }
     },
     "Desc_Wall_Gate_8x4_01_C": {
         "className": "Desc_Wall_Gate_8x4_01_C",
-        "slug": "gate",
+        "slug": "wall-gate",
+        "name": "Gate 8m x 4m",
         "assets": {
-            "original": "assets/images/gate-8m-x-4m.png",
-            "64": "assets/images/gate-8m-x-4m_64.png",
-            "128": "assets/images/gate-8m-x-4m_128.png",
-            "256": "assets/images/gate-8m-x-4m_256.png"
+            "original": "./assets/images/wall-gate.png",
+            "64": "./assets/images/wall-gate_64.png",
+            "128": "./assets/images/wall-gate_128.png",
+            "256": "./assets/images/wall-gate_256.png"
         }
     },
     "Desc_Wall_Window_8x4_01_C": {
         "className": "Desc_Wall_Window_8x4_01_C",
-        "slug": "wall-window",
+        "slug": "wall-window-01",
+        "name": "Wall Window 8m x 4m 01",
         "assets": {
-            "original": "assets/images/wall-window-8m-x-4m-01.png",
-            "64": "assets/images/wall-window-8m-x-4m-01_64.png",
-            "128": "assets/images/wall-window-8m-x-4m-01_128.png",
-            "256": "assets/images/wall-window-8m-x-4m-01_256.png"
+            "original": "./assets/images/wall-window-01.png",
+            "64": "./assets/images/wall-window-01_64.png",
+            "128": "./assets/images/wall-window-01_128.png",
+            "256": "./assets/images/wall-window-01_256.png"
         }
     },
     "Desc_Wall_Window_8x4_02_C": {
         "className": "Desc_Wall_Window_8x4_02_C",
-        "slug": "wall-window",
+        "slug": "wall-window-02",
+        "name": "Wall Window 8m x 4m 02",
         "assets": {
-            "original": "assets/images/wall-window-8m-x-4m-02.png",
-            "64": "assets/images/wall-window-8m-x-4m-02_64.png",
-            "128": "assets/images/wall-window-8m-x-4m-02_128.png",
-            "256": "assets/images/wall-window-8m-x-4m-02_256.png"
+            "original": "./assets/images/wall-window-02.png",
+            "64": "./assets/images/wall-window-02_64.png",
+            "128": "./assets/images/wall-window-02_128.png",
+            "256": "./assets/images/wall-window-02_256.png"
         }
     },
     "Desc_Wall_Window_8x4_04_C": {
         "className": "Desc_Wall_Window_8x4_04_C",
-        "slug": "wall-window",
+        "slug": "wall-window-04",
+        "name": "Wall Window 8m x 4m 04",
         "assets": {
-            "original": "assets/images/wall-window-8m-x-4m-04.png",
-            "64": "assets/images/wall-window-8m-x-4m-04_64.png",
-            "128": "assets/images/wall-window-8m-x-4m-04_128.png",
-            "256": "assets/images/wall-window-8m-x-4m-04_256.png"
+            "original": "./assets/images/wall-window-04.png",
+            "64": "./assets/images/wall-window-04_64.png",
+            "128": "./assets/images/wall-window-04_128.png",
+            "256": "./assets/images/wall-window-04_256.png"
         }
     },
     "Desc_Stairs_Left_01_C": {
         "className": "Desc_Stairs_Left_01_C",
         "slug": "stairs-left",
+        "name": "Stairs Left",
         "assets": {
-            "original": "assets/images/stairs-left.png",
-            "64": "assets/images/stairs-left_64.png",
-            "128": "assets/images/stairs-left_128.png",
-            "256": "assets/images/stairs-left_256.png"
+            "original": "./assets/images/stairs-left.png",
+            "64": "./assets/images/stairs-left_64.png",
+            "128": "./assets/images/stairs-left_128.png",
+            "256": "./assets/images/stairs-left_256.png"
         }
     },
     "Desc_Stairs_Right_01_C": {
         "className": "Desc_Stairs_Right_01_C",
         "slug": "stairs-right",
+        "name": "Stairs Right",
         "assets": {
-            "original": "assets/images/stairs-right.png",
-            "64": "assets/images/stairs-right_64.png",
-            "128": "assets/images/stairs-right_128.png",
-            "256": "assets/images/stairs-right_256.png"
+            "original": "./assets/images/stairs-right.png",
+            "64": "./assets/images/stairs-right_64.png",
+            "128": "./assets/images/stairs-right_128.png",
+            "256": "./assets/images/stairs-right_256.png"
         }
     },
     "Desc_ConveyorLiftMk1_C": {
         "className": "Desc_ConveyorLiftMk1_C",
         "slug": "conveyor-lift",
+        "name": "Conveyor Lift",
         "assets": {
-            "original": "assets/images/conveyor-lift.png",
-            "64": "assets/images/conveyor-lift_64.png",
-            "128": "assets/images/conveyor-lift_128.png",
-            "256": "assets/images/conveyor-lift_256.png"
+            "original": "./assets/images/conveyor-lift.png",
+            "64": "./assets/images/conveyor-lift_64.png",
+            "128": "./assets/images/conveyor-lift_128.png",
+            "256": "./assets/images/conveyor-lift_256.png"
         }
     },
     "Desc_ConveyorLiftMk5_C": {
         "className": "Desc_ConveyorLiftMk5_C",
-        "slug": "conveyor-lift-mk",
+        "slug": "conveyor-lift-mk-5",
+        "name": "Conveyor Lift Mk.5",
         "assets": {
-            "original": "assets/images/conveyor-lift-mk-5.png",
-            "64": "assets/images/conveyor-lift-mk-5_64.png",
-            "128": "assets/images/conveyor-lift-mk-5_128.png",
-            "256": "assets/images/conveyor-lift-mk-5_256.png"
+            "original": "./assets/images/conveyor-lift-mk-5.png",
+            "64": "./assets/images/conveyor-lift-mk-5_64.png",
+            "128": "./assets/images/conveyor-lift-mk-5_128.png",
+            "256": "./assets/images/conveyor-lift-mk-5_256.png"
         }
     },
     "Desc_ConveyorLiftMk2_C": {
         "className": "Desc_ConveyorLiftMk2_C",
-        "slug": "conveyor-lift-mk",
+        "slug": "conveyor-lift-mk-2",
+        "name": "Conveyor Lift Mk.2",
         "assets": {
-            "original": "assets/images/conveyor-lift-mk-2.png",
-            "64": "assets/images/conveyor-lift-mk-2_64.png",
-            "128": "assets/images/conveyor-lift-mk-2_128.png",
-            "256": "assets/images/conveyor-lift-mk-2_256.png"
+            "original": "./assets/images/conveyor-lift-mk-2.png",
+            "64": "./assets/images/conveyor-lift-mk-2_64.png",
+            "128": "./assets/images/conveyor-lift-mk-2_128.png",
+            "256": "./assets/images/conveyor-lift-mk-2_256.png"
         }
     },
     "Desc_ConveyorLiftMk3_C": {
         "className": "Desc_ConveyorLiftMk3_C",
-        "slug": "conveyor-lift-mk",
+        "slug": "conveyor-lift-mk-3",
+        "name": "Conveyor Lift Mk.3",
         "assets": {
-            "original": "assets/images/conveyor-lift-mk-3.png",
-            "64": "assets/images/conveyor-lift-mk-3_64.png",
-            "128": "assets/images/conveyor-lift-mk-3_128.png",
-            "256": "assets/images/conveyor-lift-mk-3_256.png"
+            "original": "./assets/images/conveyor-lift-mk-3.png",
+            "64": "./assets/images/conveyor-lift-mk-3_64.png",
+            "128": "./assets/images/conveyor-lift-mk-3_128.png",
+            "256": "./assets/images/conveyor-lift-mk-3_256.png"
         }
     },
     "Desc_ConveyorLiftMk4_C": {
         "className": "Desc_ConveyorLiftMk4_C",
-        "slug": "conveyor-lift-mk",
+        "slug": "conveyor-lift-mk-4",
+        "name": "Conveyor Lift Mk.4",
         "assets": {
-            "original": "assets/images/conveyor-lift-mk-4.png",
-            "64": "assets/images/conveyor-lift-mk-4_64.png",
-            "128": "assets/images/conveyor-lift-mk-4_128.png",
-            "256": "assets/images/conveyor-lift-mk-4_256.png"
+            "original": "./assets/images/conveyor-lift-mk-4.png",
+            "64": "./assets/images/conveyor-lift-mk-4_64.png",
+            "128": "./assets/images/conveyor-lift-mk-4_128.png",
+            "256": "./assets/images/conveyor-lift-mk-4_256.png"
         }
     },
     "Desc_PipelineSupport_C": {
         "className": "Desc_PipelineSupport_C",
         "slug": "pipeline-support",
+        "name": "Pipeline Support",
         "assets": {
-            "original": "assets/images/pipeline-support.png",
-            "64": "assets/images/pipeline-support_64.png",
-            "128": "assets/images/pipeline-support_128.png",
-            "256": "assets/images/pipeline-support_256.png"
+            "original": "./assets/images/pipeline-support.png",
+            "64": "./assets/images/pipeline-support_64.png",
+            "128": "./assets/images/pipeline-support_128.png",
+            "256": "./assets/images/pipeline-support_256.png"
         }
     },
     "Desc_HyperPoleStackable_C": {
         "className": "Desc_HyperPoleStackable_C",
         "slug": "stackable-hyper-tube-support",
+        "name": "Stackable Hyper Tube Support",
         "assets": {
-            "original": "assets/images/stackable-hyper-tube-support.png",
-            "64": "assets/images/stackable-hyper-tube-support_64.png",
-            "128": "assets/images/stackable-hyper-tube-support_128.png",
-            "256": "assets/images/stackable-hyper-tube-support_256.png"
+            "original": "./assets/images/stackable-hyper-tube-support.png",
+            "64": "./assets/images/stackable-hyper-tube-support_64.png",
+            "128": "./assets/images/stackable-hyper-tube-support_128.png",
+            "256": "./assets/images/stackable-hyper-tube-support_256.png"
         }
     },
     "Desc_PipeHyperSupport_C": {
         "className": "Desc_PipeHyperSupport_C",
         "slug": "hyper-tube-support",
+        "name": "Hyper Tube Support",
         "assets": {
-            "original": "assets/images/hyper-tube-support.png",
-            "64": "assets/images/hyper-tube-support_64.png",
-            "128": "assets/images/hyper-tube-support_128.png",
-            "256": "assets/images/hyper-tube-support_256.png"
+            "original": "./assets/images/hyper-tube-support.png",
+            "64": "./assets/images/hyper-tube-support_64.png",
+            "128": "./assets/images/hyper-tube-support_128.png",
+            "256": "./assets/images/hyper-tube-support_256.png"
         }
     },
     "Desc_PipeSupportStackable_C": {
         "className": "Desc_PipeSupportStackable_C",
         "slug": "stackable-pipeline-support",
+        "name": "Stackable Pipeline Support",
         "assets": {
-            "original": "assets/images/stackable-pipeline-support.png",
-            "64": "assets/images/stackable-pipeline-support_64.png",
-            "128": "assets/images/stackable-pipeline-support_128.png",
-            "256": "assets/images/stackable-pipeline-support_256.png"
+            "original": "./assets/images/stackable-pipeline-support.png",
+            "64": "./assets/images/stackable-pipeline-support_64.png",
+            "128": "./assets/images/stackable-pipeline-support_128.png",
+            "256": "./assets/images/stackable-pipeline-support_256.png"
         }
     },
     "Desc_Pipeline_C": {
         "className": "Desc_Pipeline_C",
         "slug": "pipeline",
+        "name": "Pipeline",
         "assets": {
-            "original": "assets/images/pipeline.png",
-            "64": "assets/images/pipeline_64.png",
-            "128": "assets/images/pipeline_128.png",
-            "256": "assets/images/pipeline_256.png"
+            "original": "./assets/images/pipeline.png",
+            "64": "./assets/images/pipeline_64.png",
+            "128": "./assets/images/pipeline_128.png",
+            "256": "./assets/images/pipeline_256.png"
         }
     },
     "Desc_PipelineJunction_Cross_C": {
         "className": "Desc_PipelineJunction_Cross_C",
         "slug": "pipeline-junction-cross",
+        "name": "Pipeline Junction Cross",
         "assets": {
-            "original": "assets/images/pipeline-junction-cross.png",
-            "64": "assets/images/pipeline-junction-cross_64.png",
-            "128": "assets/images/pipeline-junction-cross_128.png",
-            "256": "assets/images/pipeline-junction-cross_256.png"
+            "original": "./assets/images/pipeline-junction-cross.png",
+            "64": "./assets/images/pipeline-junction-cross_64.png",
+            "128": "./assets/images/pipeline-junction-cross_128.png",
+            "256": "./assets/images/pipeline-junction-cross_256.png"
         }
     },
     "Desc_PipelinePump_C": {
         "className": "Desc_PipelinePump_C",
         "slug": "pipeline-pump",
+        "name": "Pipeline Pump",
         "assets": {
-            "original": "assets/images/pipeline-pump.png",
-            "64": "assets/images/pipeline-pump_64.png",
-            "128": "assets/images/pipeline-pump_128.png",
-            "256": "assets/images/pipeline-pump_256.png"
+            "original": "./assets/images/pipeline-pump.png",
+            "64": "./assets/images/pipeline-pump_64.png",
+            "128": "./assets/images/pipeline-pump_128.png",
+            "256": "./assets/images/pipeline-pump_256.png"
         }
     },
     "Desc_PipeStorageTank_C": {
         "className": "Desc_PipeStorageTank_C",
         "slug": "industrial-fluid-buffer",
+        "name": "Industrial Fluid Buffer",
         "assets": {
-            "original": "assets/images/industrial-fluid-buffer.png",
-            "64": "assets/images/industrial-fluid-buffer_64.png",
-            "128": "assets/images/industrial-fluid-buffer_128.png",
-            "256": "assets/images/industrial-fluid-buffer_256.png"
+            "original": "./assets/images/industrial-fluid-buffer.png",
+            "64": "./assets/images/industrial-fluid-buffer_64.png",
+            "128": "./assets/images/industrial-fluid-buffer_128.png",
+            "256": "./assets/images/industrial-fluid-buffer_256.png"
         }
     },
     "Desc_IndustrialTank_C": {
         "className": "Desc_IndustrialTank_C",
         "slug": "industrial-fluid-buffer",
+        "name": "Industrial Fluid Buffer",
         "assets": {
-            "original": "assets/images/industrial-fluid-buffer.png",
-            "64": "assets/images/industrial-fluid-buffer_64.png",
-            "128": "assets/images/industrial-fluid-buffer_128.png",
-            "256": "assets/images/industrial-fluid-buffer_256.png"
+            "original": "./assets/images/industrial-fluid-buffer.png",
+            "64": "./assets/images/industrial-fluid-buffer_64.png",
+            "128": "./assets/images/industrial-fluid-buffer_128.png",
+            "256": "./assets/images/industrial-fluid-buffer_256.png"
         }
     },
     "Desc_GeneratorNuclear_C": {
         "className": "Desc_GeneratorNuclear_C",
         "slug": "nuclear-power-plant",
+        "name": "Nuclear Power Plant",
         "assets": {
-            "original": "assets/images/nuclear-power-plant.png",
-            "64": "assets/images/nuclear-power-plant_64.png",
-            "128": "assets/images/nuclear-power-plant_128.png",
-            "256": "assets/images/nuclear-power-plant_256.png"
+            "original": "./assets/images/nuclear-power-plant.png",
+            "64": "./assets/images/nuclear-power-plant_64.png",
+            "128": "./assets/images/nuclear-power-plant_128.png",
+            "256": "./assets/images/nuclear-power-plant_256.png"
         }
     },
     "Desc_Foundation_8x1_01_C": {
         "className": "Desc_Foundation_8x1_01_C",
-        "slug": "foundation",
+        "slug": "foundation-8m-x-1m",
+        "name": "Foundation 8m x 1m",
         "assets": {
-            "original": "assets/images/foundation-8m-x-1m.png",
-            "64": "assets/images/foundation-8m-x-1m_64.png",
-            "128": "assets/images/foundation-8m-x-1m_128.png",
-            "256": "assets/images/foundation-8m-x-1m_256.png"
+            "original": "./assets/images/foundation-8m-x-1m.png",
+            "64": "./assets/images/foundation-8m-x-1m_64.png",
+            "128": "./assets/images/foundation-8m-x-1m_128.png",
+            "256": "./assets/images/foundation-8m-x-1m_256.png"
         }
     },
     "Desc_Foundation_8x2_01_C": {
         "className": "Desc_Foundation_8x2_01_C",
-        "slug": "foundation",
+        "slug": "foundation-8m-x-2m",
+        "name": "Foundation 8m x 2m",
         "assets": {
-            "original": "assets/images/foundation-8m-x-2m.png",
-            "64": "assets/images/foundation-8m-x-2m_64.png",
-            "128": "assets/images/foundation-8m-x-2m_128.png",
-            "256": "assets/images/foundation-8m-x-2m_256.png"
+            "original": "./assets/images/foundation-8m-x-2m.png",
+            "64": "./assets/images/foundation-8m-x-2m_64.png",
+            "128": "./assets/images/foundation-8m-x-2m_128.png",
+            "256": "./assets/images/foundation-8m-x-2m_256.png"
         }
     },
     "Desc_Foundation_8x4_01_C": {
         "className": "Desc_Foundation_8x4_01_C",
-        "slug": "foundation",
+        "slug": "foundation-8m-x-4m",
+        "name": "Foundation 8m x 4m",
         "assets": {
-            "original": "assets/images/foundation-8m-x-4m.png",
-            "64": "assets/images/foundation-8m-x-4m_64.png",
-            "128": "assets/images/foundation-8m-x-4m_128.png",
-            "256": "assets/images/foundation-8m-x-4m_256.png"
+            "original": "./assets/images/foundation-8m-x-4m.png",
+            "64": "./assets/images/foundation-8m-x-4m_64.png",
+            "128": "./assets/images/foundation-8m-x-4m_128.png",
+            "256": "./assets/images/foundation-8m-x-4m_256.png"
         }
     },
     "Desc_Ramp_8x1_01_C": {
         "className": "Desc_Ramp_8x1_01_C",
-        "slug": "ramp",
+        "slug": "ramp-8m-x-1m",
+        "name": "Ramp 8m x 1m",
         "assets": {
-            "original": "assets/images/ramp-8m-x-1m.png",
-            "64": "assets/images/ramp-8m-x-1m_64.png",
-            "128": "assets/images/ramp-8m-x-1m_128.png",
-            "256": "assets/images/ramp-8m-x-1m_256.png"
+            "original": "./assets/images/ramp-8m-x-1m.png",
+            "64": "./assets/images/ramp-8m-x-1m_64.png",
+            "128": "./assets/images/ramp-8m-x-1m_128.png",
+            "256": "./assets/images/ramp-8m-x-1m_256.png"
         }
     },
     "Desc_Ramp_8x2_01_C": {
         "className": "Desc_Ramp_8x2_01_C",
-        "slug": "ramp",
+        "slug": "ramp-8m-x-2m",
+        "name": "Ramp 8m x 2m",
         "assets": {
-            "original": "assets/images/ramp-8m-x-2m.png",
-            "64": "assets/images/ramp-8m-x-2m_64.png",
-            "128": "assets/images/ramp-8m-x-2m_128.png",
-            "256": "assets/images/ramp-8m-x-2m_256.png"
+            "original": "./assets/images/ramp-8m-x-2m.png",
+            "64": "./assets/images/ramp-8m-x-2m_64.png",
+            "128": "./assets/images/ramp-8m-x-2m_128.png",
+            "256": "./assets/images/ramp-8m-x-2m_256.png"
         }
     },
     "Desc_Ramp_8x4_01_C": {
         "className": "Desc_Ramp_8x4_01_C",
-        "slug": "ramp",
+        "slug": "ramp-8m-x-4m",
+        "name": "Ramp 8m x 4m",
         "assets": {
-            "original": "assets/images/ramp-8m-x-4m.png",
-            "64": "assets/images/ramp-8m-x-4m_64.png",
-            "128": "assets/images/ramp-8m-x-4m_128.png",
-            "256": "assets/images/ramp-8m-x-4m_256.png"
+            "original": "./assets/images/ramp-8m-x-4m.png",
+            "64": "./assets/images/ramp-8m-x-4m_64.png",
+            "128": "./assets/images/ramp-8m-x-4m_128.png",
+            "256": "./assets/images/ramp-8m-x-4m_256.png"
         }
     },
     "Desc_QuarterPipe_C": {
         "className": "Desc_QuarterPipe_C",
         "slug": "quarter-pipe",
+        "name": "Quarter Pipe",
         "assets": {
-            "original": "assets/images/quarter-pipe.png",
-            "64": "assets/images/quarter-pipe_64.png",
-            "128": "assets/images/quarter-pipe_128.png",
-            "256": "assets/images/quarter-pipe_256.png"
+            "original": "./assets/images/quarter-pipe.png",
+            "64": "./assets/images/quarter-pipe_64.png",
+            "128": "./assets/images/quarter-pipe_128.png",
+            "256": "./assets/images/quarter-pipe_256.png"
         }
     },
     "Desc_QuarterPipe_02_C": {
         "className": "Desc_QuarterPipe_02_C",
         "slug": "inverted-quarter-pipe",
+        "name": "Inverted Quarter Pipe",
         "assets": {
-            "original": "assets/images/inverted-quarter-pipe.png",
-            "64": "assets/images/inverted-quarter-pipe_64.png",
-            "128": "assets/images/inverted-quarter-pipe_128.png",
-            "256": "assets/images/inverted-quarter-pipe_256.png"
+            "original": "./assets/images/inverted-quarter-pipe.png",
+            "64": "./assets/images/inverted-quarter-pipe_64.png",
+            "128": "./assets/images/inverted-quarter-pipe_128.png",
+            "256": "./assets/images/inverted-quarter-pipe_256.png"
         }
     },
     "Desc_QuarterPipeCorner_01_C": {
         "className": "Desc_QuarterPipeCorner_01_C",
         "slug": "inner-corner-quarter-pipe",
+        "name": "Inner-Corner Quarter Pipe",
         "assets": {
-            "original": "assets/images/inner-corner-quarter-pipe.png",
-            "64": "assets/images/inner-corner-quarter-pipe_64.png",
-            "128": "assets/images/inner-corner-quarter-pipe_128.png",
-            "256": "assets/images/inner-corner-quarter-pipe_256.png"
+            "original": "./assets/images/inner-corner-quarter-pipe.png",
+            "64": "./assets/images/inner-corner-quarter-pipe_64.png",
+            "128": "./assets/images/inner-corner-quarter-pipe_128.png",
+            "256": "./assets/images/inner-corner-quarter-pipe_256.png"
         }
     },
     "Desc_QuarterPipeCorner_02_C": {
         "className": "Desc_QuarterPipeCorner_02_C",
         "slug": "inverted-inner-corner-quarter-pipe",
+        "name": "Inverted Inner-Corner Quarter Pipe",
         "assets": {
-            "original": "assets/images/inverted-inner-corner-quarter-pipe.png",
-            "64": "assets/images/inverted-inner-corner-quarter-pipe_64.png",
-            "128": "assets/images/inverted-inner-corner-quarter-pipe_128.png",
-            "256": "assets/images/inverted-inner-corner-quarter-pipe_256.png"
+            "original": "./assets/images/inverted-inner-corner-quarter-pipe.png",
+            "64": "./assets/images/inverted-inner-corner-quarter-pipe_64.png",
+            "128": "./assets/images/inverted-inner-corner-quarter-pipe_128.png",
+            "256": "./assets/images/inverted-inner-corner-quarter-pipe_256.png"
         }
     },
     "Desc_QuarterPipeCorner_03_C": {
         "className": "Desc_QuarterPipeCorner_03_C",
         "slug": "outer-corner-quarter-pipe",
+        "name": "Outer-Corner Quarter Pipe",
         "assets": {
-            "original": "assets/images/outer-corner-quarter-pipe.png",
-            "64": "assets/images/outer-corner-quarter-pipe_64.png",
-            "128": "assets/images/outer-corner-quarter-pipe_128.png",
-            "256": "assets/images/outer-corner-quarter-pipe_256.png"
+            "original": "./assets/images/outer-corner-quarter-pipe.png",
+            "64": "./assets/images/outer-corner-quarter-pipe_64.png",
+            "128": "./assets/images/outer-corner-quarter-pipe_128.png",
+            "256": "./assets/images/outer-corner-quarter-pipe_256.png"
         }
     },
     "Desc_QuarterPipeCorner_04_C": {
         "className": "Desc_QuarterPipeCorner_04_C",
         "slug": "inverted-outer-corner-quarter-pipe",
+        "name": "Inverted Outer-Corner Quarter Pipe",
         "assets": {
-            "original": "assets/images/inverted-outer-corner-quarter-pipe.png",
-            "64": "assets/images/inverted-outer-corner-quarter-pipe_64.png",
-            "128": "assets/images/inverted-outer-corner-quarter-pipe_128.png",
-            "256": "assets/images/inverted-outer-corner-quarter-pipe_256.png"
+            "original": "./assets/images/inverted-outer-corner-quarter-pipe.png",
+            "64": "./assets/images/inverted-outer-corner-quarter-pipe_64.png",
+            "128": "./assets/images/inverted-outer-corner-quarter-pipe_128.png",
+            "256": "./assets/images/inverted-outer-corner-quarter-pipe_256.png"
         }
     },
     "Desc_Ramp_Diagonal_8x1_01_C": {
         "className": "Desc_Ramp_Diagonal_8x1_01_C",
-        "slug": "corner-ramp-down",
+        "slug": "corner-ramp-down-8m-x-1m",
+        "name": "Corner Ramp Down 8m x 1m",
         "assets": {
-            "original": "assets/images/corner-ramp-down-8m-x-1m.png",
-            "64": "assets/images/corner-ramp-down-8m-x-1m_64.png",
-            "128": "assets/images/corner-ramp-down-8m-x-1m_128.png",
-            "256": "assets/images/corner-ramp-down-8m-x-1m_256.png"
+            "original": "./assets/images/corner-ramp-down-8m-x-1m.png",
+            "64": "./assets/images/corner-ramp-down-8m-x-1m_64.png",
+            "128": "./assets/images/corner-ramp-down-8m-x-1m_128.png",
+            "256": "./assets/images/corner-ramp-down-8m-x-1m_256.png"
         }
     },
     "Desc_Ramp_Diagonal_8x1_02_C": {
         "className": "Desc_Ramp_Diagonal_8x1_02_C",
-        "slug": "corner-ramp-up",
+        "slug": "corner-ramp-up-8m-x-1m",
+        "name": "Corner Ramp Up 8m x 1m",
         "assets": {
-            "original": "assets/images/corner-ramp-up-8m-x-1m.png",
-            "64": "assets/images/corner-ramp-up-8m-x-1m_64.png",
-            "128": "assets/images/corner-ramp-up-8m-x-1m_128.png",
-            "256": "assets/images/corner-ramp-up-8m-x-1m_256.png"
+            "original": "./assets/images/corner-ramp-up-8m-x-1m.png",
+            "64": "./assets/images/corner-ramp-up-8m-x-1m_64.png",
+            "128": "./assets/images/corner-ramp-up-8m-x-1m_128.png",
+            "256": "./assets/images/corner-ramp-up-8m-x-1m_256.png"
         }
     },
     "Desc_Ramp_Diagonal_8x2_01_C": {
         "className": "Desc_Ramp_Diagonal_8x2_01_C",
-        "slug": "corner-ramp-down",
+        "slug": "corner-ramp-down-8m-x-2m",
+        "name": "Corner Ramp Down 8m x 2m",
         "assets": {
-            "original": "assets/images/corner-ramp-down-8m-x-2m.png",
-            "64": "assets/images/corner-ramp-down-8m-x-2m_64.png",
-            "128": "assets/images/corner-ramp-down-8m-x-2m_128.png",
-            "256": "assets/images/corner-ramp-down-8m-x-2m_256.png"
+            "original": "./assets/images/corner-ramp-down-8m-x-2m.png",
+            "64": "./assets/images/corner-ramp-down-8m-x-2m_64.png",
+            "128": "./assets/images/corner-ramp-down-8m-x-2m_128.png",
+            "256": "./assets/images/corner-ramp-down-8m-x-2m_256.png"
         }
     },
     "Desc_Ramp_Diagonal_8x2_02_C": {
         "className": "Desc_Ramp_Diagonal_8x2_02_C",
-        "slug": "corner-ramp-up",
+        "slug": "corner-ramp-up-8m-x-2m",
+        "name": "Corner Ramp Up 8m x 2m",
         "assets": {
-            "original": "assets/images/corner-ramp-up-8m-x-2m.png",
-            "64": "assets/images/corner-ramp-up-8m-x-2m_64.png",
-            "128": "assets/images/corner-ramp-up-8m-x-2m_128.png",
-            "256": "assets/images/corner-ramp-up-8m-x-2m_256.png"
+            "original": "./assets/images/corner-ramp-up-8m-x-2m.png",
+            "64": "./assets/images/corner-ramp-up-8m-x-2m_64.png",
+            "128": "./assets/images/corner-ramp-up-8m-x-2m_128.png",
+            "256": "./assets/images/corner-ramp-up-8m-x-2m_256.png"
         }
     },
     "Desc_Ramp_Diagonal_8x4_01_C": {
         "className": "Desc_Ramp_Diagonal_8x4_01_C",
-        "slug": "corner-ramp-down",
+        "slug": "corner-ramp-down-8m-x-4m",
+        "name": "Corner Ramp Down 8m x 4m",
         "assets": {
-            "original": "assets/images/corner-ramp-down-8m-x-4m.png",
-            "64": "assets/images/corner-ramp-down-8m-x-4m_64.png",
-            "128": "assets/images/corner-ramp-down-8m-x-4m_128.png",
-            "256": "assets/images/corner-ramp-down-8m-x-4m_256.png"
+            "original": "./assets/images/corner-ramp-down-8m-x-4m.png",
+            "64": "./assets/images/corner-ramp-down-8m-x-4m_64.png",
+            "128": "./assets/images/corner-ramp-down-8m-x-4m_128.png",
+            "256": "./assets/images/corner-ramp-down-8m-x-4m_256.png"
         }
     },
     "Desc_Ramp_Diagonal_8x4_02_C": {
         "className": "Desc_Ramp_Diagonal_8x4_02_C",
-        "slug": "corner-ramp-up",
+        "slug": "corner-ramp-up-8m-x-4m",
+        "name": "Corner Ramp Up 8m x 4m",
         "assets": {
-            "original": "assets/images/corner-ramp-up-8m-x-4m.png",
-            "64": "assets/images/corner-ramp-up-8m-x-4m_64.png",
-            "128": "assets/images/corner-ramp-up-8m-x-4m_128.png",
-            "256": "assets/images/corner-ramp-up-8m-x-4m_256.png"
+            "original": "./assets/images/corner-ramp-up-8m-x-4m.png",
+            "64": "./assets/images/corner-ramp-up-8m-x-4m_64.png",
+            "128": "./assets/images/corner-ramp-up-8m-x-4m_128.png",
+            "256": "./assets/images/corner-ramp-up-8m-x-4m_256.png"
         }
     },
     "Desc_PillarBase_C": {
         "className": "Desc_PillarBase_C",
         "slug": "pillar-base",
+        "name": "Pillar Base",
         "assets": {
-            "original": "assets/images/pillar-base.png",
-            "64": "assets/images/pillar-base_64.png",
-            "128": "assets/images/pillar-base_128.png",
-            "256": "assets/images/pillar-base_256.png"
+            "original": "./assets/images/pillar-base.png",
+            "64": "./assets/images/pillar-base_64.png",
+            "128": "./assets/images/pillar-base_128.png",
+            "256": "./assets/images/pillar-base_256.png"
         }
     },
     "Desc_PillarMiddle_C": {
         "className": "Desc_PillarMiddle_C",
         "slug": "pillar-middle",
+        "name": "Pillar Middle",
         "assets": {
-            "original": "assets/images/pillar-middle.png",
-            "64": "assets/images/pillar-middle_64.png",
-            "128": "assets/images/pillar-middle_128.png",
-            "256": "assets/images/pillar-middle_256.png"
+            "original": "./assets/images/pillar-middle.png",
+            "64": "./assets/images/pillar-middle_64.png",
+            "128": "./assets/images/pillar-middle_128.png",
+            "256": "./assets/images/pillar-middle_256.png"
         }
     },
     "Desc_PillarTop_C": {
         "className": "Desc_PillarTop_C",
         "slug": "pillar-top",
+        "name": "Pillar Top",
         "assets": {
-            "original": "assets/images/pillar-top.png",
-            "64": "assets/images/pillar-top_64.png",
-            "128": "assets/images/pillar-top_128.png",
-            "256": "assets/images/pillar-top_256.png"
+            "original": "./assets/images/pillar-top.png",
+            "64": "./assets/images/pillar-top_64.png",
+            "128": "./assets/images/pillar-top_128.png",
+            "256": "./assets/images/pillar-top_256.png"
         }
     },
     "Desc_Ramp_8x8x8_C": {
         "className": "Desc_Ramp_8x8x8_C",
-        "slug": "double-ramp",
+        "slug": "double-ramp-8m-x-8m",
+        "name": "Double Ramp 8m x 8m",
         "assets": {
-            "original": "assets/images/double-ramp-8m-x-8m.png",
-            "64": "assets/images/double-ramp-8m-x-8m_64.png",
-            "128": "assets/images/double-ramp-8m-x-8m_128.png",
-            "256": "assets/images/double-ramp-8m-x-8m_256.png"
+            "original": "./assets/images/double-ramp-8m-x-8m.png",
+            "64": "./assets/images/double-ramp-8m-x-8m_64.png",
+            "128": "./assets/images/double-ramp-8m-x-8m_128.png",
+            "256": "./assets/images/double-ramp-8m-x-8m_256.png"
         }
     },
     "Desc_RampDouble_C": {
         "className": "Desc_RampDouble_C",
-        "slug": "double-ramp",
+        "slug": "double-ramp-8m-x-4m",
+        "name": "Double Ramp 8m x 4m",
         "assets": {
-            "original": "assets/images/double-ramp-8m-x-4m.png",
-            "64": "assets/images/double-ramp-8m-x-4m_64.png",
-            "128": "assets/images/double-ramp-8m-x-4m_128.png",
-            "256": "assets/images/double-ramp-8m-x-4m_256.png"
+            "original": "./assets/images/double-ramp-8m-x-4m.png",
+            "64": "./assets/images/double-ramp-8m-x-4m_64.png",
+            "128": "./assets/images/double-ramp-8m-x-4m_128.png",
+            "256": "./assets/images/double-ramp-8m-x-4m_256.png"
         }
     },
     "Desc_RampDouble_8x1_C": {
         "className": "Desc_RampDouble_8x1_C",
-        "slug": "double-ramp",
+        "slug": "double-ramp-8m-x-2m",
+        "name": "Double Ramp 8m x 2m",
         "assets": {
-            "original": "assets/images/double-ramp-8m-x-2m.png",
-            "64": "assets/images/double-ramp-8m-x-2m_64.png",
-            "128": "assets/images/double-ramp-8m-x-2m_128.png",
-            "256": "assets/images/double-ramp-8m-x-2m_256.png"
+            "original": "./assets/images/double-ramp-8m-x-2m.png",
+            "64": "./assets/images/double-ramp-8m-x-2m_64.png",
+            "128": "./assets/images/double-ramp-8m-x-2m_128.png",
+            "256": "./assets/images/double-ramp-8m-x-2m_256.png"
         }
     },
     "Desc_Foundation_Frame_01_C": {
         "className": "Desc_Foundation_Frame_01_C",
         "slug": "foundation-frame",
+        "name": "Foundation Frame",
         "assets": {
-            "original": "assets/images/foundation-frame.png",
-            "64": "assets/images/foundation-frame_64.png",
-            "128": "assets/images/foundation-frame_128.png",
-            "256": "assets/images/foundation-frame_256.png"
+            "original": "./assets/images/foundation-frame.png",
+            "64": "./assets/images/foundation-frame_64.png",
+            "128": "./assets/images/foundation-frame_128.png",
+            "256": "./assets/images/foundation-frame_256.png"
         }
     },
     "Desc_FoundationGlass_01_C": {
         "className": "Desc_FoundationGlass_01_C",
         "slug": "glass-foundation",
+        "name": "Glass Foundation 8m x 1m",
         "assets": {
-            "original": "assets/images/glass-foundation-8m-x-1m.png",
-            "64": "assets/images/glass-foundation-8m-x-1m_64.png",
-            "128": "assets/images/glass-foundation-8m-x-1m_128.png",
-            "256": "assets/images/glass-foundation-8m-x-1m_256.png"
+            "original": "./assets/images/glass-foundation.png",
+            "64": "./assets/images/glass-foundation_64.png",
+            "128": "./assets/images/glass-foundation_128.png",
+            "256": "./assets/images/glass-foundation_256.png"
         }
     },
     "Desc_Ramp_8x4_Inverted_01_C": {
         "className": "Desc_Ramp_8x4_Inverted_01_C",
-        "slug": "inverted-ramp",
+        "slug": "inverted-ramp-8m-x-4m",
+        "name": "Inverted Ramp 8m x 4m",
         "assets": {
-            "original": "assets/images/inverted-ramp-8m-x-4m.png",
-            "64": "assets/images/inverted-ramp-8m-x-4m_64.png",
-            "128": "assets/images/inverted-ramp-8m-x-4m_128.png",
-            "256": "assets/images/inverted-ramp-8m-x-4m_256.png"
+            "original": "./assets/images/inverted-ramp-8m-x-4m.png",
+            "64": "./assets/images/inverted-ramp-8m-x-4m_64.png",
+            "128": "./assets/images/inverted-ramp-8m-x-4m_128.png",
+            "256": "./assets/images/inverted-ramp-8m-x-4m_256.png"
         }
     },
     "Desc_RampInverted_8x1_C": {
         "className": "Desc_RampInverted_8x1_C",
-        "slug": "inverted-ramp",
+        "slug": "inverted-ramp-8m-x-1m",
+        "name": "Inverted Ramp 8m x 1m",
         "assets": {
-            "original": "assets/images/inverted-ramp-8m-x-1m.png",
-            "64": "assets/images/inverted-ramp-8m-x-1m_64.png",
-            "128": "assets/images/inverted-ramp-8m-x-1m_128.png",
-            "256": "assets/images/inverted-ramp-8m-x-1m_256.png"
+            "original": "./assets/images/inverted-ramp-8m-x-1m.png",
+            "64": "./assets/images/inverted-ramp-8m-x-1m_64.png",
+            "128": "./assets/images/inverted-ramp-8m-x-1m_128.png",
+            "256": "./assets/images/inverted-ramp-8m-x-1m_256.png"
         }
     },
     "Desc_RampInverted_8x1_Corner_01_C": {
         "className": "Desc_RampInverted_8x1_Corner_01_C",
-        "slug": "inverted-ramp-corner",
+        "slug": "inverted-ramp-corner-8m-x-1m",
+        "name": "Inverted Ramp Corner 8m x 1m",
         "assets": {
-            "original": "assets/images/inverted-ramp-corner-8m-x-1m.png",
-            "64": "assets/images/inverted-ramp-corner-8m-x-1m_64.png",
-            "128": "assets/images/inverted-ramp-corner-8m-x-1m_128.png",
-            "256": "assets/images/inverted-ramp-corner-8m-x-1m_256.png"
+            "original": "./assets/images/inverted-ramp-corner-8m-x-1m.png",
+            "64": "./assets/images/inverted-ramp-corner-8m-x-1m_64.png",
+            "128": "./assets/images/inverted-ramp-corner-8m-x-1m_128.png",
+            "256": "./assets/images/inverted-ramp-corner-8m-x-1m_256.png"
         }
     },
     "Desc_RampInverted_8x2_01_C": {
         "className": "Desc_RampInverted_8x2_01_C",
-        "slug": "inverted-ramp",
+        "slug": "inverted-ramp-8m-x-2m",
+        "name": "Inverted Ramp 8m x 2m",
         "assets": {
-            "original": "assets/images/inverted-ramp-8m-x-2m.png",
-            "64": "assets/images/inverted-ramp-8m-x-2m_64.png",
-            "128": "assets/images/inverted-ramp-8m-x-2m_128.png",
-            "256": "assets/images/inverted-ramp-8m-x-2m_256.png"
+            "original": "./assets/images/inverted-ramp-8m-x-2m.png",
+            "64": "./assets/images/inverted-ramp-8m-x-2m_64.png",
+            "128": "./assets/images/inverted-ramp-8m-x-2m_128.png",
+            "256": "./assets/images/inverted-ramp-8m-x-2m_256.png"
         }
     },
     "Desc_RampInverted_8x2_Corner_01_C": {
         "className": "Desc_RampInverted_8x2_Corner_01_C",
-        "slug": "inverted-ramp-corner",
+        "slug": "inverted-ramp-corner-8m-x-2m",
+        "name": "Inverted Ramp Corner 8m x 2m",
         "assets": {
-            "original": "assets/images/inverted-ramp-corner-8m-x-2m.png",
-            "64": "assets/images/inverted-ramp-corner-8m-x-2m_64.png",
-            "128": "assets/images/inverted-ramp-corner-8m-x-2m_128.png",
-            "256": "assets/images/inverted-ramp-corner-8m-x-2m_256.png"
+            "original": "./assets/images/inverted-ramp-corner-8m-x-2m.png",
+            "64": "./assets/images/inverted-ramp-corner-8m-x-2m_64.png",
+            "128": "./assets/images/inverted-ramp-corner-8m-x-2m_128.png",
+            "256": "./assets/images/inverted-ramp-corner-8m-x-2m_256.png"
         }
     },
     "Desc_RampInverted_8x4_Corner_01_C": {
         "className": "Desc_RampInverted_8x4_Corner_01_C",
-        "slug": "inverted-ramp-corner",
+        "slug": "inverted-ramp-corner-8m-x-4m",
+        "name": "Inverted Ramp Corner 8m x 4m",
         "assets": {
-            "original": "assets/images/inverted-ramp-corner-8m-x-4m.png",
-            "64": "assets/images/inverted-ramp-corner-8m-x-4m_64.png",
-            "128": "assets/images/inverted-ramp-corner-8m-x-4m_128.png",
-            "256": "assets/images/inverted-ramp-corner-8m-x-4m_256.png"
+            "original": "./assets/images/inverted-ramp-corner-8m-x-4m.png",
+            "64": "./assets/images/inverted-ramp-corner-8m-x-4m_64.png",
+            "128": "./assets/images/inverted-ramp-corner-8m-x-4m_128.png",
+            "256": "./assets/images/inverted-ramp-corner-8m-x-4m_256.png"
         }
     },
     "Desc_LookoutTower_C": {
         "className": "Desc_LookoutTower_C",
         "slug": "lookout-tower",
+        "name": "Lookout Tower",
         "assets": {
-            "original": "assets/images/lookout-tower.png",
-            "64": "assets/images/lookout-tower_64.png",
-            "128": "assets/images/lookout-tower_128.png",
-            "256": "assets/images/lookout-tower_256.png"
+            "original": "./assets/images/lookout-tower.png",
+            "64": "./assets/images/lookout-tower_64.png",
+            "128": "./assets/images/lookout-tower_128.png",
+            "256": "./assets/images/lookout-tower_256.png"
         }
     },
     "Desc_JumpPad_C": {
         "className": "Desc_JumpPad_C",
         "slug": "jump-pad",
+        "name": "Jump Pad",
         "assets": {
-            "original": "assets/images/jump-pad.png",
-            "64": "assets/images/jump-pad_64.png",
-            "128": "assets/images/jump-pad_128.png",
-            "256": "assets/images/jump-pad_256.png"
+            "original": "./assets/images/jump-pad.png",
+            "64": "./assets/images/jump-pad_64.png",
+            "128": "./assets/images/jump-pad_128.png",
+            "256": "./assets/images/jump-pad_256.png"
         }
     },
     "Desc_JumpPadTilted_C": {
         "className": "Desc_JumpPadTilted_C",
         "slug": "tilted-jump-pad",
+        "name": "Tilted Jump Pad",
         "assets": {
-            "original": "assets/images/tilted-jump-pad.png",
-            "64": "assets/images/tilted-jump-pad_64.png",
-            "128": "assets/images/tilted-jump-pad_128.png",
-            "256": "assets/images/tilted-jump-pad_256.png"
+            "original": "./assets/images/tilted-jump-pad.png",
+            "64": "./assets/images/tilted-jump-pad_64.png",
+            "128": "./assets/images/tilted-jump-pad_128.png",
+            "256": "./assets/images/tilted-jump-pad_256.png"
         }
     },
     "Desc_LandingPad_C": {
         "className": "Desc_LandingPad_C",
-        "slug": "jelly-landing-pad",
+        "slug": "u-jelly-landing-pad",
+        "name": "U-Jelly Landing Pad",
         "assets": {
-            "original": "assets/images/u-jelly-landing-pad.png",
-            "64": "assets/images/u-jelly-landing-pad_64.png",
-            "128": "assets/images/u-jelly-landing-pad_128.png",
-            "256": "assets/images/u-jelly-landing-pad_256.png"
+            "original": "./assets/images/u-jelly-landing-pad.png",
+            "64": "./assets/images/u-jelly-landing-pad_64.png",
+            "128": "./assets/images/u-jelly-landing-pad_128.png",
+            "256": "./assets/images/u-jelly-landing-pad_256.png"
         }
     },
     "Desc_ConveyorAttachmentMerger_C": {
         "className": "Desc_ConveyorAttachmentMerger_C",
         "slug": "conveyor-merger",
+        "name": "Conveyor Merger",
         "assets": {
-            "original": "assets/images/conveyor-merger.png",
-            "64": "assets/images/conveyor-merger_64.png",
-            "128": "assets/images/conveyor-merger_128.png",
-            "256": "assets/images/conveyor-merger_256.png"
+            "original": "./assets/images/conveyor-merger.png",
+            "64": "./assets/images/conveyor-merger_64.png",
+            "128": "./assets/images/conveyor-merger_128.png",
+            "256": "./assets/images/conveyor-merger_256.png"
         }
     },
     "Desc_ConveyorAttachmentSplitter_C": {
         "className": "Desc_ConveyorAttachmentSplitter_C",
         "slug": "conveyor-splitter",
+        "name": "Conveyor Splitter",
         "assets": {
-            "original": "assets/images/conveyor-splitter.png",
-            "64": "assets/images/conveyor-splitter_64.png",
-            "128": "assets/images/conveyor-splitter_128.png",
-            "256": "assets/images/conveyor-splitter_256.png"
+            "original": "./assets/images/conveyor-splitter.png",
+            "64": "./assets/images/conveyor-splitter_64.png",
+            "128": "./assets/images/conveyor-splitter_128.png",
+            "256": "./assets/images/conveyor-splitter_256.png"
         }
     },
     "Desc_ResourceSink_C": {
         "className": "Desc_ResourceSink_C",
-        "slug": "sink",
+        "slug": "awesome-sink",
+        "name": "AWESOME Sink",
         "assets": {
-            "original": "assets/images/awesome-sink.png",
-            "64": "assets/images/awesome-sink_64.png",
-            "128": "assets/images/awesome-sink_128.png",
-            "256": "assets/images/awesome-sink_256.png"
+            "original": "./assets/images/awesome-sink.png",
+            "64": "./assets/images/awesome-sink_64.png",
+            "128": "./assets/images/awesome-sink_128.png",
+            "256": "./assets/images/awesome-sink_256.png"
         }
     },
     "Desc_ResourceSinkShop_C": {
         "className": "Desc_ResourceSinkShop_C",
-        "slug": "shop",
+        "slug": "awesome-shop",
+        "name": "AWESOME Shop",
         "assets": {
-            "original": "assets/images/awesome-shop.png",
-            "64": "assets/images/awesome-shop_64.png",
-            "128": "assets/images/awesome-shop_128.png",
-            "256": "assets/images/awesome-shop_256.png"
+            "original": "./assets/images/awesome-shop.png",
+            "64": "./assets/images/awesome-shop_64.png",
+            "128": "./assets/images/awesome-shop_128.png",
+            "256": "./assets/images/awesome-shop_256.png"
         }
     },
     "Desc_ConveyorPoleStackable_C": {
         "className": "Desc_ConveyorPoleStackable_C",
         "slug": "conveyor-pole-stackable",
+        "name": "Conveyor Pole Stackable",
         "assets": {
-            "original": "assets/images/conveyor-pole-stackable.png",
-            "64": "assets/images/conveyor-pole-stackable_64.png",
-            "128": "assets/images/conveyor-pole-stackable_128.png",
-            "256": "assets/images/conveyor-pole-stackable_256.png"
+            "original": "./assets/images/conveyor-pole-stackable.png",
+            "64": "./assets/images/conveyor-pole-stackable_64.png",
+            "128": "./assets/images/conveyor-pole-stackable_128.png",
+            "256": "./assets/images/conveyor-pole-stackable_256.png"
         }
     },
     "Desc_TruckStation_C": {
         "className": "Desc_TruckStation_C",
         "slug": "truck-station",
+        "name": "Truck Station",
         "assets": {
-            "original": "assets/images/truck-station.png",
-            "64": "assets/images/truck-station_64.png",
-            "128": "assets/images/truck-station_128.png",
-            "256": "assets/images/truck-station_256.png"
+            "original": "./assets/images/truck-station.png",
+            "64": "./assets/images/truck-station_64.png",
+            "128": "./assets/images/truck-station_128.png",
+            "256": "./assets/images/truck-station_256.png"
         }
     },
     "Desc_PipeHyperStart_C": {
         "className": "Desc_PipeHyperStart_C",
         "slug": "hyper-tube-entrance",
+        "name": "Hyper Tube Entrance",
         "assets": {
-            "original": "assets/images/hyper-tube-entrance.png",
-            "64": "assets/images/hyper-tube-entrance_64.png",
-            "128": "assets/images/hyper-tube-entrance_128.png",
-            "256": "assets/images/hyper-tube-entrance_256.png"
+            "original": "./assets/images/hyper-tube-entrance.png",
+            "64": "./assets/images/hyper-tube-entrance_64.png",
+            "128": "./assets/images/hyper-tube-entrance_128.png",
+            "256": "./assets/images/hyper-tube-entrance_256.png"
         }
     },
     "Desc_PipeHyper_C": {
         "className": "Desc_PipeHyper_C",
         "slug": "hyper-tube",
+        "name": "Hyper Tube",
         "assets": {
-            "original": "assets/images/hyper-tube.png",
-            "64": "assets/images/hyper-tube_64.png",
-            "128": "assets/images/hyper-tube_128.png",
-            "256": "assets/images/hyper-tube_256.png"
+            "original": "./assets/images/hyper-tube.png",
+            "64": "./assets/images/hyper-tube_64.png",
+            "128": "./assets/images/hyper-tube_128.png",
+            "256": "./assets/images/hyper-tube_256.png"
         }
     },
     "Desc_TrainDockingStation_C": {
         "className": "Desc_TrainDockingStation_C",
         "slug": "freight-platform",
+        "name": "Freight Platform",
         "assets": {
-            "original": "assets/images/freight-platform.png",
-            "64": "assets/images/freight-platform_64.png",
-            "128": "assets/images/freight-platform_128.png",
-            "256": "assets/images/freight-platform_256.png"
+            "original": "./assets/images/freight-platform.png",
+            "64": "./assets/images/freight-platform_64.png",
+            "128": "./assets/images/freight-platform_128.png",
+            "256": "./assets/images/freight-platform_256.png"
         }
     },
     "Desc_TrainDockingStationLiquid_C": {
         "className": "Desc_TrainDockingStationLiquid_C",
         "slug": "fluid-freight-platform",
+        "name": "Fluid Freight Platform",
         "assets": {
-            "original": "assets/images/fluid-freight-platform.png",
-            "64": "assets/images/fluid-freight-platform_64.png",
-            "128": "assets/images/fluid-freight-platform_128.png",
-            "256": "assets/images/fluid-freight-platform_256.png"
+            "original": "./assets/images/fluid-freight-platform.png",
+            "64": "./assets/images/fluid-freight-platform_64.png",
+            "128": "./assets/images/fluid-freight-platform_128.png",
+            "256": "./assets/images/fluid-freight-platform_256.png"
         }
     },
     "Desc_TrainPlatformEmpty_C": {
         "className": "Desc_TrainPlatformEmpty_C",
         "slug": "empty-platform",
+        "name": "Empty Platform",
         "assets": {
-            "original": "assets/images/empty-platform.png",
-            "64": "assets/images/empty-platform_64.png",
-            "128": "assets/images/empty-platform_128.png",
-            "256": "assets/images/empty-platform_256.png"
+            "original": "./assets/images/empty-platform.png",
+            "64": "./assets/images/empty-platform_64.png",
+            "128": "./assets/images/empty-platform_128.png",
+            "256": "./assets/images/empty-platform_256.png"
         }
     },
     "Desc_TrainStation_C": {
         "className": "Desc_TrainStation_C",
         "slug": "train-station",
+        "name": "Train Station",
         "assets": {
-            "original": "assets/images/train-station.png",
-            "64": "assets/images/train-station_64.png",
-            "128": "assets/images/train-station_128.png",
-            "256": "assets/images/train-station_256.png"
+            "original": "./assets/images/train-station.png",
+            "64": "./assets/images/train-station_64.png",
+            "128": "./assets/images/train-station_128.png",
+            "256": "./assets/images/train-station_256.png"
         }
     },
     "Desc_RailroadTrack_C": {
         "className": "Desc_RailroadTrack_C",
         "slug": "railway",
+        "name": "Railway",
         "assets": {
-            "original": "assets/images/railway.png",
-            "64": "assets/images/railway_64.png",
-            "128": "assets/images/railway_128.png",
-            "256": "assets/images/railway_256.png"
+            "original": "./assets/images/railway.png",
+            "64": "./assets/images/railway_64.png",
+            "128": "./assets/images/railway_128.png",
+            "256": "./assets/images/railway_256.png"
         }
     },
     "Desc_ConveyorAttachmentSplitterSmart_C": {
         "className": "Desc_ConveyorAttachmentSplitterSmart_C",
         "slug": "smart-splitter",
+        "name": "Smart Splitter",
         "assets": {
-            "original": "assets/images/smart-splitter.png",
-            "64": "assets/images/smart-splitter_64.png",
-            "128": "assets/images/smart-splitter_128.png",
-            "256": "assets/images/smart-splitter_256.png"
+            "original": "./assets/images/smart-splitter.png",
+            "64": "./assets/images/smart-splitter_64.png",
+            "128": "./assets/images/smart-splitter_128.png",
+            "256": "./assets/images/smart-splitter_256.png"
         }
     },
     "Desc_ConveyorAttachmentSplitterProgrammable_C": {
         "className": "Desc_ConveyorAttachmentSplitterProgrammable_C",
         "slug": "programmable-splitter",
+        "name": "Programmable Splitter",
         "assets": {
-            "original": "assets/images/programmable-splitter.png",
-            "64": "assets/images/programmable-splitter_64.png",
-            "128": "assets/images/programmable-splitter_128.png",
-            "256": "assets/images/programmable-splitter_256.png"
+            "original": "./assets/images/programmable-splitter.png",
+            "64": "./assets/images/programmable-splitter_64.png",
+            "128": "./assets/images/programmable-splitter_128.png",
+            "256": "./assets/images/programmable-splitter_256.png"
         }
     },
     "Desc_GeneratorGeoThermal_C": {
         "className": "Desc_GeneratorGeoThermal_C",
         "slug": "geo-thermal-generator",
+        "name": "Geo Thermal Generator",
         "assets": {
-            "original": "assets/images/geo-thermal-generator.png",
-            "64": "assets/images/geo-thermal-generator_64.png",
-            "128": "assets/images/geo-thermal-generator_128.png",
-            "256": "assets/images/geo-thermal-generator_256.png"
+            "original": "./assets/images/geo-thermal-generator.png",
+            "64": "./assets/images/geo-thermal-generator_64.png",
+            "128": "./assets/images/geo-thermal-generator_128.png",
+            "256": "./assets/images/geo-thermal-generator_256.png"
         }
     },
     "Desc_WalkwayCross_C": {
         "className": "Desc_WalkwayCross_C",
         "slug": "walkway-crossing",
+        "name": "Walkway Crossing",
         "assets": {
-            "original": "assets/images/walkway-crossing.png",
-            "64": "assets/images/walkway-crossing_64.png",
-            "128": "assets/images/walkway-crossing_128.png",
-            "256": "assets/images/walkway-crossing_256.png"
+            "original": "./assets/images/walkway-crossing.png",
+            "64": "./assets/images/walkway-crossing_64.png",
+            "128": "./assets/images/walkway-crossing_128.png",
+            "256": "./assets/images/walkway-crossing_256.png"
         }
     },
     "Desc_WalkwayRamp_C": {
         "className": "Desc_WalkwayRamp_C",
         "slug": "walkway-ramp",
+        "name": "Walkway Ramp",
         "assets": {
-            "original": "assets/images/walkway-ramp.png",
-            "64": "assets/images/walkway-ramp_64.png",
-            "128": "assets/images/walkway-ramp_128.png",
-            "256": "assets/images/walkway-ramp_256.png"
+            "original": "./assets/images/walkway-ramp.png",
+            "64": "./assets/images/walkway-ramp_64.png",
+            "128": "./assets/images/walkway-ramp_128.png",
+            "256": "./assets/images/walkway-ramp_256.png"
         }
     },
     "Desc_WalkwayStraight_C": {
         "className": "Desc_WalkwayStraight_C",
         "slug": "walkway-straight",
+        "name": "Walkway Straight",
         "assets": {
-            "original": "assets/images/walkway-straight.png",
-            "64": "assets/images/walkway-straight_64.png",
-            "128": "assets/images/walkway-straight_128.png",
-            "256": "assets/images/walkway-straight_256.png"
+            "original": "./assets/images/walkway-straight.png",
+            "64": "./assets/images/walkway-straight_64.png",
+            "128": "./assets/images/walkway-straight_128.png",
+            "256": "./assets/images/walkway-straight_256.png"
         }
     },
     "Desc_WalkwayT_C": {
         "className": "Desc_WalkwayT_C",
-        "slug": "walkway-crossing",
+        "slug": "walkway-t-crossing",
+        "name": "Walkway T-Crossing",
         "assets": {
-            "original": "assets/images/walkway-t-crossing.png",
-            "64": "assets/images/walkway-t-crossing_64.png",
-            "128": "assets/images/walkway-t-crossing_128.png",
-            "256": "assets/images/walkway-t-crossing_256.png"
+            "original": "./assets/images/walkway-t-crossing.png",
+            "64": "./assets/images/walkway-t-crossing_64.png",
+            "128": "./assets/images/walkway-t-crossing_128.png",
+            "256": "./assets/images/walkway-t-crossing_256.png"
         }
     },
     "Desc_WalkwayTurn_C": {
         "className": "Desc_WalkwayTurn_C",
         "slug": "walkway-turn",
+        "name": "Walkway Turn",
         "assets": {
-            "original": "assets/images/walkway-turn.png",
-            "64": "assets/images/walkway-turn_64.png",
-            "128": "assets/images/walkway-turn_128.png",
-            "256": "assets/images/walkway-turn_256.png"
+            "original": "./assets/images/walkway-turn.png",
+            "64": "./assets/images/walkway-turn_64.png",
+            "128": "./assets/images/walkway-turn_128.png",
+            "256": "./assets/images/walkway-turn_256.png"
         }
     },
     "Desc_RadarTower_C": {
         "className": "Desc_RadarTower_C",
         "slug": "radar-tower",
+        "name": "Radar Tower",
         "assets": {
-            "original": "assets/images/radarTower.png",
-            "64": "assets/images/radarTower_64.png",
-            "128": "assets/images/radarTower_128.png",
-            "256": "assets/images/radarTower_256.png"
+            "original": "./assets/images/radar-tower.png",
+            "64": "./assets/images/radar-tower_64.png",
+            "128": "./assets/images/radar-tower_128.png",
+            "256": "./assets/images/radar-tower_256.png"
         }
     },
     "Desc_Cement_C": {
         "className": "Desc_Cement_C",
         "slug": "concrete",
+        "name": "Concrete",
         "assets": {
-            "original": "assets/images/concrete.png",
-            "64": "assets/images/concrete_64.png",
-            "128": "assets/images/concrete_128.png",
-            "256": "assets/images/concrete_256.png"
+            "original": "./assets/images/concrete.png",
+            "64": "./assets/images/concrete_64.png",
+            "128": "./assets/images/concrete_128.png",
+            "256": "./assets/images/concrete_256.png"
         }
     },
     "Desc_IronPlate_C": {
         "className": "Desc_IronPlate_C",
         "slug": "iron-plate",
+        "name": "Iron Plate",
         "assets": {
-            "original": "assets/images/iron-plate.png",
-            "64": "assets/images/iron-plate_64.png",
-            "128": "assets/images/iron-plate_128.png",
-            "256": "assets/images/iron-plate_256.png"
+            "original": "./assets/images/iron-plate.png",
+            "64": "./assets/images/iron-plate_64.png",
+            "128": "./assets/images/iron-plate_128.png",
+            "256": "./assets/images/iron-plate_256.png"
         }
     },
     "Desc_IronRod_C": {
         "className": "Desc_IronRod_C",
         "slug": "iron-rod",
+        "name": "Iron Rod",
         "assets": {
-            "original": "assets/images/iron-rod.png",
-            "64": "assets/images/iron-rod_64.png",
-            "128": "assets/images/iron-rod_128.png",
-            "256": "assets/images/iron-rod_256.png"
+            "original": "./assets/images/iron-rod.png",
+            "64": "./assets/images/iron-rod_64.png",
+            "128": "./assets/images/iron-rod_128.png",
+            "256": "./assets/images/iron-rod_256.png"
         }
     },
     "Desc_CrystalShard_C": {
         "className": "Desc_CrystalShard_C",
         "slug": "power-shard",
+        "name": "Power Shard",
         "assets": {
-            "original": "assets/images/power-shard.png",
-            "64": "assets/images/power-shard_64.png",
-            "128": "assets/images/power-shard_128.png",
-            "256": "assets/images/power-shard_256.png"
+            "original": "./assets/images/power-shard.png",
+            "64": "./assets/images/power-shard_64.png",
+            "128": "./assets/images/power-shard_128.png",
+            "256": "./assets/images/power-shard_256.png"
         }
     },
     "Desc_Fuel_C": {
         "className": "Desc_Fuel_C",
         "slug": "packaged-fuel",
+        "name": "Packaged Fuel",
         "assets": {
-            "original": "assets/images/packaged-fuel.png",
-            "64": "assets/images/packaged-fuel_64.png",
-            "128": "assets/images/packaged-fuel_128.png",
-            "256": "assets/images/packaged-fuel_256.png"
+            "original": "./assets/images/packaged-fuel.png",
+            "64": "./assets/images/packaged-fuel_64.png",
+            "128": "./assets/images/packaged-fuel_128.png",
+            "256": "./assets/images/packaged-fuel_256.png"
         }
     },
     "Desc_HazmatFilter_C": {
         "className": "Desc_HazmatFilter_C",
         "slug": "iodine-infused-filter",
+        "name": "Iodine Infused Filter",
         "assets": {
-            "original": "assets/images/iodine-infused-filter.png",
-            "64": "assets/images/iodine-infused-filter_64.png",
-            "128": "assets/images/iodine-infused-filter_128.png",
-            "256": "assets/images/iodine-infused-filter_256.png"
+            "original": "./assets/images/iodine-infused-filter.png",
+            "64": "./assets/images/iodine-infused-filter_64.png",
+            "128": "./assets/images/iodine-infused-filter_128.png",
+            "256": "./assets/images/iodine-infused-filter_256.png"
         }
     },
     "Desc_SpikedRebar_C": {
         "className": "Desc_SpikedRebar_C",
         "slug": "spiked-rebar",
+        "name": "Spiked Rebar",
         "assets": {
-            "original": "assets/images/spiked-rebar.png",
-            "64": "assets/images/spiked-rebar_64.png",
-            "128": "assets/images/spiked-rebar_128.png",
-            "256": "assets/images/spiked-rebar_256.png"
+            "original": "./assets/images/spiked-rebar.png",
+            "64": "./assets/images/spiked-rebar_64.png",
+            "128": "./assets/images/spiked-rebar_128.png",
+            "256": "./assets/images/spiked-rebar_256.png"
         }
     },
     "Desc_CartridgeStandard_C": {
         "className": "Desc_CartridgeStandard_C",
         "slug": "cartridge",
+        "name": "Cartridge",
         "assets": {
-            "original": "assets/images/cartridge.png",
-            "64": "assets/images/cartridge_64.png",
-            "128": "assets/images/cartridge_128.png",
-            "256": "assets/images/cartridge_256.png"
+            "original": "./assets/images/cartridge.png",
+            "64": "./assets/images/cartridge_64.png",
+            "128": "./assets/images/cartridge_128.png",
+            "256": "./assets/images/cartridge_256.png"
         }
     },
     "Desc_HUBParts_C": {
         "className": "Desc_HUBParts_C",
-        "slug": "parts",
+        "slug": "hub-parts",
+        "name": "HUB Parts",
         "assets": {
-            "original": "assets/images/hub-parts.png",
-            "64": "assets/images/hub-parts_64.png",
-            "128": "assets/images/hub-parts_128.png",
-            "256": "assets/images/hub-parts_256.png"
+            "original": "./assets/images/hub-parts.png",
+            "64": "./assets/images/hub-parts_64.png",
+            "128": "./assets/images/hub-parts_128.png",
+            "256": "./assets/images/hub-parts_256.png"
         }
     },
     "Desc_Wire_C": {
         "className": "Desc_Wire_C",
         "slug": "wire",
+        "name": "Wire",
         "assets": {
-            "original": "assets/images/wire.png",
-            "64": "assets/images/wire_64.png",
-            "128": "assets/images/wire_128.png",
-            "256": "assets/images/wire_256.png"
+            "original": "./assets/images/wire.png",
+            "64": "./assets/images/wire_64.png",
+            "128": "./assets/images/wire_128.png",
+            "256": "./assets/images/wire_256.png"
         }
     },
     "Desc_Filter_C": {
         "className": "Desc_Filter_C",
         "slug": "filter",
+        "name": "Filter",
         "assets": {
-            "original": "assets/images/filter.png",
-            "64": "assets/images/filter_64.png",
-            "128": "assets/images/filter_128.png",
-            "256": "assets/images/filter_256.png"
+            "original": "./assets/images/filter.png",
+            "64": "./assets/images/filter_64.png",
+            "128": "./assets/images/filter_128.png",
+            "256": "./assets/images/filter_256.png"
         }
     },
     "Desc_Cable_C": {
         "className": "Desc_Cable_C",
         "slug": "cable",
+        "name": "Cable",
         "assets": {
-            "original": "assets/images/cable.png",
-            "64": "assets/images/cable_64.png",
-            "128": "assets/images/cable_128.png",
-            "256": "assets/images/cable_256.png"
+            "original": "./assets/images/cable.png",
+            "64": "./assets/images/cable_64.png",
+            "128": "./assets/images/cable_128.png",
+            "256": "./assets/images/cable_256.png"
         }
     },
     "Desc_IronPlateReinforced_C": {
         "className": "Desc_IronPlateReinforced_C",
         "slug": "reinforced-iron-plate",
+        "name": "Reinforced Iron Plate",
         "assets": {
-            "original": "assets/images/reinforced-iron-plate.png",
-            "64": "assets/images/reinforced-iron-plate_64.png",
-            "128": "assets/images/reinforced-iron-plate_128.png",
-            "256": "assets/images/reinforced-iron-plate_256.png"
+            "original": "./assets/images/reinforced-iron-plate.png",
+            "64": "./assets/images/reinforced-iron-plate_64.png",
+            "128": "./assets/images/reinforced-iron-plate_128.png",
+            "256": "./assets/images/reinforced-iron-plate_256.png"
         }
     },
     "Desc_CopperIngot_C": {
         "className": "Desc_CopperIngot_C",
         "slug": "copper-ingot",
+        "name": "Copper Ingot",
         "assets": {
-            "original": "assets/images/copper-ingot.png",
-            "64": "assets/images/copper-ingot_64.png",
-            "128": "assets/images/copper-ingot_128.png",
-            "256": "assets/images/copper-ingot_256.png"
+            "original": "./assets/images/copper-ingot.png",
+            "64": "./assets/images/copper-ingot_64.png",
+            "128": "./assets/images/copper-ingot_128.png",
+            "256": "./assets/images/copper-ingot_256.png"
         }
     },
     "Desc_IronScrew_C": {
         "className": "Desc_IronScrew_C",
         "slug": "screw",
+        "name": "Screw",
         "assets": {
-            "original": "assets/images/screw.png",
-            "64": "assets/images/screw_64.png",
-            "128": "assets/images/screw_128.png",
-            "256": "assets/images/screw_256.png"
+            "original": "./assets/images/screw.png",
+            "64": "./assets/images/screw_64.png",
+            "128": "./assets/images/screw_128.png",
+            "256": "./assets/images/screw_256.png"
         }
     },
     "Desc_SpaceElevatorPart_1_C": {
         "className": "Desc_SpaceElevatorPart_1_C",
         "slug": "smart-plating",
+        "name": "Smart Plating",
         "assets": {
-            "original": "assets/images/smart-plating.png",
-            "64": "assets/images/smart-plating_64.png",
-            "128": "assets/images/smart-plating_128.png",
-            "256": "assets/images/smart-plating_256.png"
+            "original": "./assets/images/smart-plating.png",
+            "64": "./assets/images/smart-plating_64.png",
+            "128": "./assets/images/smart-plating_128.png",
+            "256": "./assets/images/smart-plating_256.png"
         }
     },
     "Desc_SpaceElevatorPart_2_C": {
         "className": "Desc_SpaceElevatorPart_2_C",
         "slug": "versatile-framework",
+        "name": "Versatile Framework",
         "assets": {
-            "original": "assets/images/versatile-framework.png",
-            "64": "assets/images/versatile-framework_64.png",
-            "128": "assets/images/versatile-framework_128.png",
-            "256": "assets/images/versatile-framework_256.png"
+            "original": "./assets/images/versatile-framework.png",
+            "64": "./assets/images/versatile-framework_64.png",
+            "128": "./assets/images/versatile-framework_128.png",
+            "256": "./assets/images/versatile-framework_256.png"
         }
     },
     "Desc_SpaceElevatorPart_3_C": {
         "className": "Desc_SpaceElevatorPart_3_C",
         "slug": "automated-wiring",
+        "name": "Automated Wiring",
         "assets": {
-            "original": "assets/images/automated-wiring.png",
-            "64": "assets/images/automated-wiring_64.png",
-            "128": "assets/images/automated-wiring_128.png",
-            "256": "assets/images/automated-wiring_256.png"
+            "original": "./assets/images/automated-wiring.png",
+            "64": "./assets/images/automated-wiring_64.png",
+            "128": "./assets/images/automated-wiring_128.png",
+            "256": "./assets/images/automated-wiring_256.png"
         }
     },
     "Desc_SpaceElevatorPart_4_C": {
         "className": "Desc_SpaceElevatorPart_4_C",
         "slug": "modular-engine",
+        "name": "Modular Engine",
         "assets": {
-            "original": "assets/images/modular-engine.png",
-            "64": "assets/images/modular-engine_64.png",
-            "128": "assets/images/modular-engine_128.png",
-            "256": "assets/images/modular-engine_256.png"
+            "original": "./assets/images/modular-engine.png",
+            "64": "./assets/images/modular-engine_64.png",
+            "128": "./assets/images/modular-engine_128.png",
+            "256": "./assets/images/modular-engine_256.png"
         }
     },
     "Desc_SpaceElevatorPart_5_C": {
         "className": "Desc_SpaceElevatorPart_5_C",
         "slug": "adaptive-control-unit",
+        "name": "Adaptive Control Unit",
         "assets": {
-            "original": "assets/images/adaptive-control-unit.png",
-            "64": "assets/images/adaptive-control-unit_64.png",
-            "128": "assets/images/adaptive-control-unit_128.png",
-            "256": "assets/images/adaptive-control-unit_256.png"
+            "original": "./assets/images/adaptive-control-unit.png",
+            "64": "./assets/images/adaptive-control-unit_64.png",
+            "128": "./assets/images/adaptive-control-unit_128.png",
+            "256": "./assets/images/adaptive-control-unit_256.png"
         }
     },
     "Desc_IronIngot_C": {
         "className": "Desc_IronIngot_C",
         "slug": "iron-ingot",
+        "name": "Iron Ingot",
         "assets": {
-            "original": "assets/images/iron-ingot.png",
-            "64": "assets/images/iron-ingot_64.png",
-            "128": "assets/images/iron-ingot_128.png",
-            "256": "assets/images/iron-ingot_256.png"
+            "original": "./assets/images/iron-ingot.png",
+            "64": "./assets/images/iron-ingot_64.png",
+            "128": "./assets/images/iron-ingot_128.png",
+            "256": "./assets/images/iron-ingot_256.png"
         }
     },
     "Desc_AluminumPlate_C": {
         "className": "Desc_AluminumPlate_C",
         "slug": "alclad-aluminum-sheet",
+        "name": "Alclad Aluminum Sheet",
         "assets": {
-            "original": "assets/images/alclad-aluminum-sheet.png",
-            "64": "assets/images/alclad-aluminum-sheet_64.png",
-            "128": "assets/images/alclad-aluminum-sheet_128.png",
-            "256": "assets/images/alclad-aluminum-sheet_256.png"
+            "original": "./assets/images/alclad-aluminum-sheet.png",
+            "64": "./assets/images/alclad-aluminum-sheet_64.png",
+            "128": "./assets/images/alclad-aluminum-sheet_128.png",
+            "256": "./assets/images/alclad-aluminum-sheet_256.png"
         }
     },
     "Desc_Motor_C": {
         "className": "Desc_Motor_C",
         "slug": "motor",
+        "name": "Motor",
         "assets": {
-            "original": "assets/images/motor.png",
-            "64": "assets/images/motor_64.png",
-            "128": "assets/images/motor_128.png",
-            "256": "assets/images/motor_256.png"
+            "original": "./assets/images/motor.png",
+            "64": "./assets/images/motor_64.png",
+            "128": "./assets/images/motor_128.png",
+            "256": "./assets/images/motor_256.png"
         }
     },
     "Desc_Rubber_C": {
         "className": "Desc_Rubber_C",
         "slug": "rubber",
+        "name": "Rubber",
         "assets": {
-            "original": "assets/images/rubber.png",
-            "64": "assets/images/rubber_64.png",
-            "128": "assets/images/rubber_128.png",
-            "256": "assets/images/rubber_256.png"
+            "original": "./assets/images/rubber.png",
+            "64": "./assets/images/rubber_64.png",
+            "128": "./assets/images/rubber_128.png",
+            "256": "./assets/images/rubber_256.png"
         }
     },
     "Desc_CircuitBoard_C": {
         "className": "Desc_CircuitBoard_C",
         "slug": "circuit-board",
+        "name": "Circuit Board",
         "assets": {
-            "original": "assets/images/circuit-board.png",
-            "64": "assets/images/circuit-board_64.png",
-            "128": "assets/images/circuit-board_128.png",
-            "256": "assets/images/circuit-board_256.png"
+            "original": "./assets/images/circuit-board.png",
+            "64": "./assets/images/circuit-board_64.png",
+            "128": "./assets/images/circuit-board_128.png",
+            "256": "./assets/images/circuit-board_256.png"
         }
     },
     "Desc_CopperSheet_C": {
         "className": "Desc_CopperSheet_C",
         "slug": "copper-sheet",
+        "name": "Copper Sheet",
         "assets": {
-            "original": "assets/images/copper-sheet.png",
-            "64": "assets/images/copper-sheet_64.png",
-            "128": "assets/images/copper-sheet_128.png",
-            "256": "assets/images/copper-sheet_256.png"
+            "original": "./assets/images/copper-sheet.png",
+            "64": "./assets/images/copper-sheet_64.png",
+            "128": "./assets/images/copper-sheet_128.png",
+            "256": "./assets/images/copper-sheet_256.png"
         }
     },
     "Desc_Plastic_C": {
         "className": "Desc_Plastic_C",
         "slug": "plastic",
+        "name": "Plastic",
         "assets": {
-            "original": "assets/images/plastic.png",
-            "64": "assets/images/plastic_64.png",
-            "128": "assets/images/plastic_128.png",
-            "256": "assets/images/plastic_256.png"
+            "original": "./assets/images/plastic.png",
+            "64": "./assets/images/plastic_64.png",
+            "128": "./assets/images/plastic_128.png",
+            "256": "./assets/images/plastic_256.png"
         }
     },
     "Desc_SteelPlateReinforced_C": {
         "className": "Desc_SteelPlateReinforced_C",
         "slug": "encased-industrial-beam",
+        "name": "Encased Industrial Beam",
         "assets": {
-            "original": "assets/images/encased-industrial-beam.png",
-            "64": "assets/images/encased-industrial-beam_64.png",
-            "128": "assets/images/encased-industrial-beam_128.png",
-            "256": "assets/images/encased-industrial-beam_256.png"
+            "original": "./assets/images/encased-industrial-beam.png",
+            "64": "./assets/images/encased-industrial-beam_64.png",
+            "128": "./assets/images/encased-industrial-beam_128.png",
+            "256": "./assets/images/encased-industrial-beam_256.png"
         }
     },
     "Desc_SteelPipe_C": {
         "className": "Desc_SteelPipe_C",
         "slug": "steel-pipe",
+        "name": "Steel Pipe",
         "assets": {
-            "original": "assets/images/steel-pipe.png",
-            "64": "assets/images/steel-pipe_64.png",
-            "128": "assets/images/steel-pipe_128.png",
-            "256": "assets/images/steel-pipe_256.png"
+            "original": "./assets/images/steel-pipe.png",
+            "64": "./assets/images/steel-pipe_64.png",
+            "128": "./assets/images/steel-pipe_128.png",
+            "256": "./assets/images/steel-pipe_256.png"
         }
     },
     "Desc_LiquidFuel_C": {
         "className": "Desc_LiquidFuel_C",
         "slug": "fuel",
+        "name": "Fuel",
         "assets": {
-            "original": "assets/images/fuel.png",
-            "64": "assets/images/fuel_64.png",
-            "128": "assets/images/fuel_128.png",
-            "256": "assets/images/fuel_256.png"
+            "original": "./assets/images/fuel.png",
+            "64": "./assets/images/fuel_64.png",
+            "128": "./assets/images/fuel_128.png",
+            "256": "./assets/images/fuel_256.png"
         }
     },
     "Desc_PolymerResin_C": {
         "className": "Desc_PolymerResin_C",
         "slug": "polymer-resin",
+        "name": "Polymer Resin",
         "assets": {
-            "original": "assets/images/polymer-resin.png",
-            "64": "assets/images/polymer-resin_64.png",
-            "128": "assets/images/polymer-resin_128.png",
-            "256": "assets/images/polymer-resin_256.png"
+            "original": "./assets/images/polymer-resin.png",
+            "64": "./assets/images/polymer-resin_64.png",
+            "128": "./assets/images/polymer-resin_128.png",
+            "256": "./assets/images/polymer-resin_256.png"
         }
     },
     "Desc_HeavyOilResidue_C": {
         "className": "Desc_HeavyOilResidue_C",
         "slug": "heavy-oil-residue",
+        "name": "Heavy Oil Residue",
         "assets": {
-            "original": "assets/images/heavy-oil-residue.png",
-            "64": "assets/images/heavy-oil-residue_64.png",
-            "128": "assets/images/heavy-oil-residue_128.png",
-            "256": "assets/images/heavy-oil-residue_256.png"
+            "original": "./assets/images/heavy-oil-residue.png",
+            "64": "./assets/images/heavy-oil-residue_64.png",
+            "128": "./assets/images/heavy-oil-residue_128.png",
+            "256": "./assets/images/heavy-oil-residue_256.png"
         }
     },
     "Desc_PetroleumCoke_C": {
         "className": "Desc_PetroleumCoke_C",
         "slug": "petroleum-coke",
+        "name": "Petroleum Coke",
         "assets": {
-            "original": "assets/images/petroleum-coke.png",
-            "64": "assets/images/petroleum-coke_64.png",
-            "128": "assets/images/petroleum-coke_128.png",
-            "256": "assets/images/petroleum-coke_256.png"
+            "original": "./assets/images/petroleum-coke.png",
+            "64": "./assets/images/petroleum-coke_64.png",
+            "128": "./assets/images/petroleum-coke_128.png",
+            "256": "./assets/images/petroleum-coke_256.png"
         }
     },
     "Desc_ModularFrame_C": {
         "className": "Desc_ModularFrame_C",
         "slug": "modular-frame",
+        "name": "Modular Frame",
         "assets": {
-            "original": "assets/images/modular-frame.png",
-            "64": "assets/images/modular-frame_64.png",
-            "128": "assets/images/modular-frame_128.png",
-            "256": "assets/images/modular-frame_256.png"
+            "original": "./assets/images/modular-frame.png",
+            "64": "./assets/images/modular-frame_64.png",
+            "128": "./assets/images/modular-frame_128.png",
+            "256": "./assets/images/modular-frame_256.png"
         }
     },
     "Desc_Rotor_C": {
         "className": "Desc_Rotor_C",
         "slug": "rotor",
+        "name": "Rotor",
         "assets": {
-            "original": "assets/images/rotor.png",
-            "64": "assets/images/rotor_64.png",
-            "128": "assets/images/rotor_128.png",
-            "256": "assets/images/rotor_256.png"
+            "original": "./assets/images/rotor.png",
+            "64": "./assets/images/rotor_64.png",
+            "128": "./assets/images/rotor_128.png",
+            "256": "./assets/images/rotor_256.png"
         }
     },
     "Desc_SteelIngot_C": {
         "className": "Desc_SteelIngot_C",
         "slug": "steel-ingot",
+        "name": "Steel Ingot",
         "assets": {
-            "original": "assets/images/steel-ingot.png",
-            "64": "assets/images/steel-ingot_64.png",
-            "128": "assets/images/steel-ingot_128.png",
-            "256": "assets/images/steel-ingot_256.png"
+            "original": "./assets/images/steel-ingot.png",
+            "64": "./assets/images/steel-ingot_64.png",
+            "128": "./assets/images/steel-ingot_128.png",
+            "256": "./assets/images/steel-ingot_256.png"
         }
     },
     "Desc_AluminaSolution_C": {
         "className": "Desc_AluminaSolution_C",
         "slug": "alumina-solution",
+        "name": "Alumina Solution",
         "assets": {
-            "original": "assets/images/alumina-solution.png",
-            "64": "assets/images/alumina-solution_64.png",
-            "128": "assets/images/alumina-solution_128.png",
-            "256": "assets/images/alumina-solution_256.png"
+            "original": "./assets/images/alumina-solution.png",
+            "64": "./assets/images/alumina-solution_64.png",
+            "128": "./assets/images/alumina-solution_128.png",
+            "256": "./assets/images/alumina-solution_256.png"
         }
     },
     "Desc_AluminumScrap_C": {
         "className": "Desc_AluminumScrap_C",
         "slug": "aluminum-scrap",
+        "name": "Aluminum Scrap",
         "assets": {
-            "original": "assets/images/aluminum-scrap.png",
-            "64": "assets/images/aluminum-scrap_64.png",
-            "128": "assets/images/aluminum-scrap_128.png",
-            "256": "assets/images/aluminum-scrap_256.png"
+            "original": "./assets/images/aluminum-scrap.png",
+            "64": "./assets/images/aluminum-scrap_64.png",
+            "128": "./assets/images/aluminum-scrap_128.png",
+            "256": "./assets/images/aluminum-scrap_256.png"
         }
     },
     "Desc_AluminumIngot_C": {
         "className": "Desc_AluminumIngot_C",
         "slug": "aluminum-ingot",
+        "name": "Aluminum Ingot",
         "assets": {
-            "original": "assets/images/aluminum-ingot.png",
-            "64": "assets/images/aluminum-ingot_64.png",
-            "128": "assets/images/aluminum-ingot_128.png",
-            "256": "assets/images/aluminum-ingot_256.png"
+            "original": "./assets/images/aluminum-ingot.png",
+            "64": "./assets/images/aluminum-ingot_64.png",
+            "128": "./assets/images/aluminum-ingot_128.png",
+            "256": "./assets/images/aluminum-ingot_256.png"
         }
     },
     "Desc_Silica_C": {
         "className": "Desc_Silica_C",
         "slug": "silica",
+        "name": "Silica",
         "assets": {
-            "original": "assets/images/silica.png",
-            "64": "assets/images/silica_64.png",
-            "128": "assets/images/silica_128.png",
-            "256": "assets/images/silica_256.png"
+            "original": "./assets/images/silica.png",
+            "64": "./assets/images/silica_64.png",
+            "128": "./assets/images/silica_128.png",
+            "256": "./assets/images/silica_256.png"
         }
     },
     "Desc_Computer_C": {
         "className": "Desc_Computer_C",
         "slug": "computer",
+        "name": "Computer",
         "assets": {
-            "original": "assets/images/computer.png",
-            "64": "assets/images/computer_64.png",
-            "128": "assets/images/computer_128.png",
-            "256": "assets/images/computer_256.png"
+            "original": "./assets/images/computer.png",
+            "64": "./assets/images/computer_64.png",
+            "128": "./assets/images/computer_128.png",
+            "256": "./assets/images/computer_256.png"
         }
     },
     "Desc_ModularFrameHeavy_C": {
         "className": "Desc_ModularFrameHeavy_C",
         "slug": "heavy-modular-frame",
+        "name": "Heavy Modular Frame",
         "assets": {
-            "original": "assets/images/heavy-modular-frame.png",
-            "64": "assets/images/heavy-modular-frame_64.png",
-            "128": "assets/images/heavy-modular-frame_128.png",
-            "256": "assets/images/heavy-modular-frame_256.png"
+            "original": "./assets/images/heavy-modular-frame.png",
+            "64": "./assets/images/heavy-modular-frame_64.png",
+            "128": "./assets/images/heavy-modular-frame_128.png",
+            "256": "./assets/images/heavy-modular-frame_256.png"
         }
     },
     "Desc_SteelPlate_C": {
         "className": "Desc_SteelPlate_C",
         "slug": "steel-beam",
+        "name": "Steel Beam",
         "assets": {
-            "original": "assets/images/steel-beam.png",
-            "64": "assets/images/steel-beam_64.png",
-            "128": "assets/images/steel-beam_128.png",
-            "256": "assets/images/steel-beam_256.png"
+            "original": "./assets/images/steel-beam.png",
+            "64": "./assets/images/steel-beam_64.png",
+            "128": "./assets/images/steel-beam_128.png",
+            "256": "./assets/images/steel-beam_256.png"
         }
     },
     "Desc_GoldIngot_C": {
         "className": "Desc_GoldIngot_C",
         "slug": "caterium-ingot",
+        "name": "Caterium Ingot",
         "assets": {
-            "original": "assets/images/caterium-ingot.png",
-            "64": "assets/images/caterium-ingot_64.png",
-            "128": "assets/images/caterium-ingot_128.png",
-            "256": "assets/images/caterium-ingot_256.png"
+            "original": "./assets/images/caterium-ingot.png",
+            "64": "./assets/images/caterium-ingot_64.png",
+            "128": "./assets/images/caterium-ingot_128.png",
+            "256": "./assets/images/caterium-ingot_256.png"
         }
     },
     "Desc_HighSpeedConnector_C": {
         "className": "Desc_HighSpeedConnector_C",
         "slug": "high-speed-connector",
+        "name": "High-Speed Connector",
         "assets": {
-            "original": "assets/images/high-speed-connector.png",
-            "64": "assets/images/high-speed-connector_64.png",
-            "128": "assets/images/high-speed-connector_128.png",
-            "256": "assets/images/high-speed-connector_256.png"
+            "original": "./assets/images/high-speed-connector.png",
+            "64": "./assets/images/high-speed-connector_64.png",
+            "128": "./assets/images/high-speed-connector_128.png",
+            "256": "./assets/images/high-speed-connector_256.png"
         }
     },
     "Desc_Stator_C": {
         "className": "Desc_Stator_C",
         "slug": "stator",
+        "name": "Stator",
         "assets": {
-            "original": "assets/images/stator.png",
-            "64": "assets/images/stator_64.png",
-            "128": "assets/images/stator_128.png",
-            "256": "assets/images/stator_256.png"
+            "original": "./assets/images/stator.png",
+            "64": "./assets/images/stator_64.png",
+            "128": "./assets/images/stator_128.png",
+            "256": "./assets/images/stator_256.png"
         }
     },
     "Desc_CircuitBoardHighSpeed_C": {
         "className": "Desc_CircuitBoardHighSpeed_C",
-        "slug": "limiter",
+        "slug": "a-i-limiter",
+        "name": "A.I. Limiter",
         "assets": {
-            "original": "assets/images/a-i-limiter.png",
-            "64": "assets/images/a-i-limiter_64.png",
-            "128": "assets/images/a-i-limiter_128.png",
-            "256": "assets/images/a-i-limiter_256.png"
+            "original": "./assets/images/a-i-limiter.png",
+            "64": "./assets/images/a-i-limiter_64.png",
+            "128": "./assets/images/a-i-limiter_128.png",
+            "256": "./assets/images/a-i-limiter_256.png"
         }
     },
     "Desc_HighSpeedWire_C": {
         "className": "Desc_HighSpeedWire_C",
         "slug": "quickwire",
+        "name": "Quickwire",
         "assets": {
-            "original": "assets/images/quickwire.png",
-            "64": "assets/images/quickwire_64.png",
-            "128": "assets/images/quickwire_128.png",
-            "256": "assets/images/quickwire_256.png"
+            "original": "./assets/images/quickwire.png",
+            "64": "./assets/images/quickwire_64.png",
+            "128": "./assets/images/quickwire_128.png",
+            "256": "./assets/images/quickwire_256.png"
         }
     },
     "Desc_QuartzCrystal_C": {
         "className": "Desc_QuartzCrystal_C",
         "slug": "quartz-crystal",
+        "name": "Quartz Crystal",
         "assets": {
-            "original": "assets/images/quartz-crystal.png",
-            "64": "assets/images/quartz-crystal_64.png",
-            "128": "assets/images/quartz-crystal_128.png",
-            "256": "assets/images/quartz-crystal_256.png"
+            "original": "./assets/images/quartz-crystal.png",
+            "64": "./assets/images/quartz-crystal_64.png",
+            "128": "./assets/images/quartz-crystal_128.png",
+            "256": "./assets/images/quartz-crystal_256.png"
         }
     },
     "Desc_LiquidTurboFuel_C": {
         "className": "Desc_LiquidTurboFuel_C",
         "slug": "turbofuel",
+        "name": "Turbofuel",
         "assets": {
-            "original": "assets/images/turbofuel.png",
-            "64": "assets/images/turbofuel_64.png",
-            "128": "assets/images/turbofuel_128.png",
-            "256": "assets/images/turbofuel_256.png"
+            "original": "./assets/images/turbofuel.png",
+            "64": "./assets/images/turbofuel_64.png",
+            "128": "./assets/images/turbofuel_128.png",
+            "256": "./assets/images/turbofuel_256.png"
         }
     },
     "Desc_FluidCanister_C": {
         "className": "Desc_FluidCanister_C",
         "slug": "empty-canister",
+        "name": "Empty Canister",
         "assets": {
-            "original": "assets/images/empty-canister.png",
-            "64": "assets/images/empty-canister_64.png",
-            "128": "assets/images/empty-canister_128.png",
-            "256": "assets/images/empty-canister_256.png"
+            "original": "./assets/images/empty-canister.png",
+            "64": "./assets/images/empty-canister_64.png",
+            "128": "./assets/images/empty-canister_128.png",
+            "256": "./assets/images/empty-canister_256.png"
         }
     },
     "Desc_TurboFuel_C": {
         "className": "Desc_TurboFuel_C",
         "slug": "packaged-turbofuel",
+        "name": "Packaged Turbofuel",
         "assets": {
-            "original": "assets/images/packaged-turbofuel.png",
-            "64": "assets/images/packaged-turbofuel_64.png",
-            "128": "assets/images/packaged-turbofuel_128.png",
-            "256": "assets/images/packaged-turbofuel_256.png"
+            "original": "./assets/images/packaged-turbofuel.png",
+            "64": "./assets/images/packaged-turbofuel_64.png",
+            "128": "./assets/images/packaged-turbofuel_128.png",
+            "256": "./assets/images/packaged-turbofuel_256.png"
         }
     },
     "Desc_CrystalOscillator_C": {
         "className": "Desc_CrystalOscillator_C",
         "slug": "crystal-oscillator",
+        "name": "Crystal Oscillator",
         "assets": {
-            "original": "assets/images/crystal-oscillator.png",
-            "64": "assets/images/crystal-oscillator_64.png",
-            "128": "assets/images/crystal-oscillator_128.png",
-            "256": "assets/images/crystal-oscillator_256.png"
+            "original": "./assets/images/crystal-oscillator.png",
+            "64": "./assets/images/crystal-oscillator_64.png",
+            "128": "./assets/images/crystal-oscillator_128.png",
+            "256": "./assets/images/crystal-oscillator_256.png"
         }
     },
     "Desc_ElectromagneticControlRod_C": {
         "className": "Desc_ElectromagneticControlRod_C",
         "slug": "electromagnetic-control-rod",
+        "name": "Electromagnetic Control Rod",
         "assets": {
-            "original": "assets/images/electromagnetic-control-rod.png",
-            "64": "assets/images/electromagnetic-control-rod_64.png",
-            "128": "assets/images/electromagnetic-control-rod_128.png",
-            "256": "assets/images/electromagnetic-control-rod_256.png"
+            "original": "./assets/images/electromagnetic-control-rod.png",
+            "64": "./assets/images/electromagnetic-control-rod_64.png",
+            "128": "./assets/images/electromagnetic-control-rod_128.png",
+            "256": "./assets/images/electromagnetic-control-rod_256.png"
         }
     },
     "Desc_ComputerSuper_C": {
         "className": "Desc_ComputerSuper_C",
         "slug": "supercomputer",
+        "name": "Supercomputer",
         "assets": {
-            "original": "assets/images/supercomputer.png",
-            "64": "assets/images/supercomputer_64.png",
-            "128": "assets/images/supercomputer_128.png",
-            "256": "assets/images/supercomputer_256.png"
+            "original": "./assets/images/supercomputer.png",
+            "64": "./assets/images/supercomputer_64.png",
+            "128": "./assets/images/supercomputer_128.png",
+            "256": "./assets/images/supercomputer_256.png"
         }
     },
     "Desc_SulfuricAcid_C": {
         "className": "Desc_SulfuricAcid_C",
         "slug": "sulfuric-acid",
+        "name": "Sulfuric Acid",
         "assets": {
-            "original": "assets/images/sulfuric-acid.png",
-            "64": "assets/images/sulfuric-acid_64.png",
-            "128": "assets/images/sulfuric-acid_128.png",
-            "256": "assets/images/sulfuric-acid_256.png"
+            "original": "./assets/images/sulfuric-acid.png",
+            "64": "./assets/images/sulfuric-acid_64.png",
+            "128": "./assets/images/sulfuric-acid_128.png",
+            "256": "./assets/images/sulfuric-acid_256.png"
         }
     },
     "Desc_Gunpowder_C": {
         "className": "Desc_Gunpowder_C",
         "slug": "black-powder",
+        "name": "Black Powder",
         "assets": {
-            "original": "assets/images/black-powder.png",
-            "64": "assets/images/black-powder_64.png",
-            "128": "assets/images/black-powder_128.png",
-            "256": "assets/images/black-powder_256.png"
+            "original": "./assets/images/black-powder.png",
+            "64": "./assets/images/black-powder_64.png",
+            "128": "./assets/images/black-powder_128.png",
+            "256": "./assets/images/black-powder_256.png"
         }
     },
     "Desc_AluminumPlateReinforced_C": {
         "className": "Desc_AluminumPlateReinforced_C",
         "slug": "heat-sink",
+        "name": "Heat Sink",
         "assets": {
-            "original": "assets/images/heat-sink.png",
-            "64": "assets/images/heat-sink_64.png",
-            "128": "assets/images/heat-sink_128.png",
-            "256": "assets/images/heat-sink_256.png"
+            "original": "./assets/images/heat-sink.png",
+            "64": "./assets/images/heat-sink_64.png",
+            "128": "./assets/images/heat-sink_128.png",
+            "256": "./assets/images/heat-sink_256.png"
         }
     },
     "Desc_MotorLightweight_C": {
         "className": "Desc_MotorLightweight_C",
         "slug": "turbo-motor",
+        "name": "Turbo Motor",
         "assets": {
-            "original": "assets/images/turbo-motor.png",
-            "64": "assets/images/turbo-motor_64.png",
-            "128": "assets/images/turbo-motor_128.png",
-            "256": "assets/images/turbo-motor_256.png"
+            "original": "./assets/images/turbo-motor.png",
+            "64": "./assets/images/turbo-motor_64.png",
+            "128": "./assets/images/turbo-motor_128.png",
+            "256": "./assets/images/turbo-motor_256.png"
         }
     },
     "Desc_Battery_C": {
         "className": "Desc_Battery_C",
         "slug": "battery",
+        "name": "Battery",
         "assets": {
-            "original": "assets/images/battery.png",
-            "64": "assets/images/battery_64.png",
-            "128": "assets/images/battery_128.png",
-            "256": "assets/images/battery_256.png"
+            "original": "./assets/images/battery.png",
+            "64": "./assets/images/battery_64.png",
+            "128": "./assets/images/battery_128.png",
+            "256": "./assets/images/battery_256.png"
         }
     },
     "Desc_ModularFrameLightweight_C": {
         "className": "Desc_ModularFrameLightweight_C",
         "slug": "radio-control-unit",
+        "name": "Radio Control Unit",
         "assets": {
-            "original": "assets/images/radio-control-unit.png",
-            "64": "assets/images/radio-control-unit_64.png",
-            "128": "assets/images/radio-control-unit_128.png",
-            "256": "assets/images/radio-control-unit_256.png"
+            "original": "./assets/images/radio-control-unit.png",
+            "64": "./assets/images/radio-control-unit_64.png",
+            "128": "./assets/images/radio-control-unit_128.png",
+            "256": "./assets/images/radio-control-unit_256.png"
         }
     },
     "Desc_NobeliskExplosive_C": {
         "className": "Desc_NobeliskExplosive_C",
         "slug": "nobelisk",
+        "name": "Nobelisk",
         "assets": {
-            "original": "assets/images/nobelisk.png",
-            "64": "assets/images/nobelisk_64.png",
-            "128": "assets/images/nobelisk_128.png",
-            "256": "assets/images/nobelisk_256.png"
+            "original": "./assets/images/nobelisk.png",
+            "64": "./assets/images/nobelisk_64.png",
+            "128": "./assets/images/nobelisk_128.png",
+            "256": "./assets/images/nobelisk_256.png"
         }
     },
     "Desc_Crystal_C": {
         "className": "Desc_Crystal_C",
         "slug": "green-power-slug",
+        "name": "Green Power Slug",
         "assets": {
-            "original": "assets/images/green-power-slug.png",
-            "64": "assets/images/green-power-slug_64.png",
-            "128": "assets/images/green-power-slug_128.png",
-            "256": "assets/images/green-power-slug_256.png"
+            "original": "./assets/images/green-power-slug.png",
+            "64": "./assets/images/green-power-slug_64.png",
+            "128": "./assets/images/green-power-slug_128.png",
+            "256": "./assets/images/green-power-slug_256.png"
         }
     },
     "Desc_PackagedOilResidue_C": {
         "className": "Desc_PackagedOilResidue_C",
         "slug": "packaged-heavy-oil-residue",
+        "name": "Packaged Heavy Oil Residue",
         "assets": {
-            "original": "assets/images/packaged-heavy-oil-residue.png",
-            "64": "assets/images/packaged-heavy-oil-residue_64.png",
-            "128": "assets/images/packaged-heavy-oil-residue_128.png",
-            "256": "assets/images/packaged-heavy-oil-residue_256.png"
+            "original": "./assets/images/packaged-heavy-oil-residue.png",
+            "64": "./assets/images/packaged-heavy-oil-residue_64.png",
+            "128": "./assets/images/packaged-heavy-oil-residue_128.png",
+            "256": "./assets/images/packaged-heavy-oil-residue_256.png"
         }
     },
     "Desc_ColorCartridge_C": {
         "className": "Desc_ColorCartridge_C",
         "slug": "color-cartridge",
+        "name": "Color Cartridge",
         "assets": {
-            "original": "assets/images/color-cartridge.png",
-            "64": "assets/images/color-cartridge_64.png",
-            "128": "assets/images/color-cartridge_128.png",
-            "256": "assets/images/color-cartridge_256.png"
+            "original": "./assets/images/color-cartridge.png",
+            "64": "./assets/images/color-cartridge_64.png",
+            "128": "./assets/images/color-cartridge_128.png",
+            "256": "./assets/images/color-cartridge_256.png"
         }
     },
     "Desc_Crystal_mk2_C": {
         "className": "Desc_Crystal_mk2_C",
         "slug": "yellow-power-slug",
+        "name": "Yellow Power Slug",
         "assets": {
-            "original": "assets/images/yellow-power-slug.png",
-            "64": "assets/images/yellow-power-slug_64.png",
-            "128": "assets/images/yellow-power-slug_128.png",
-            "256": "assets/images/yellow-power-slug_256.png"
+            "original": "./assets/images/yellow-power-slug.png",
+            "64": "./assets/images/yellow-power-slug_64.png",
+            "128": "./assets/images/yellow-power-slug_128.png",
+            "256": "./assets/images/yellow-power-slug_256.png"
         }
     },
     "Desc_Crystal_mk3_C": {
         "className": "Desc_Crystal_mk3_C",
         "slug": "purple-power-slug",
+        "name": "Purple Power Slug",
         "assets": {
-            "original": "assets/images/purple-power-slug.png",
-            "64": "assets/images/purple-power-slug_64.png",
-            "128": "assets/images/purple-power-slug_128.png",
-            "256": "assets/images/purple-power-slug_256.png"
+            "original": "./assets/images/purple-power-slug.png",
+            "64": "./assets/images/purple-power-slug_64.png",
+            "128": "./assets/images/purple-power-slug_128.png",
+            "256": "./assets/images/purple-power-slug_256.png"
         }
     },
     "Desc_Biofuel_C": {
         "className": "Desc_Biofuel_C",
         "slug": "solid-biofuel",
+        "name": "Solid Biofuel",
         "assets": {
-            "original": "assets/images/solid-biofuel.png",
-            "64": "assets/images/solid-biofuel_64.png",
-            "128": "assets/images/solid-biofuel_128.png",
-            "256": "assets/images/solid-biofuel_256.png"
+            "original": "./assets/images/solid-biofuel.png",
+            "64": "./assets/images/solid-biofuel_64.png",
+            "128": "./assets/images/solid-biofuel_128.png",
+            "256": "./assets/images/solid-biofuel_256.png"
         }
     },
     "Desc_GenericBiomass_C": {
         "className": "Desc_GenericBiomass_C",
         "slug": "biomass",
+        "name": "Biomass",
         "assets": {
-            "original": "assets/images/biomass.png",
-            "64": "assets/images/biomass_64.png",
-            "128": "assets/images/biomass_128.png",
-            "256": "assets/images/biomass_256.png"
+            "original": "./assets/images/biomass.png",
+            "64": "./assets/images/biomass_64.png",
+            "128": "./assets/images/biomass_128.png",
+            "256": "./assets/images/biomass_256.png"
         }
     },
     "Desc_Leaves_C": {
         "className": "Desc_Leaves_C",
         "slug": "leaves",
+        "name": "Leaves",
         "assets": {
-            "original": "assets/images/leaves.png",
-            "64": "assets/images/leaves_64.png",
-            "128": "assets/images/leaves_128.png",
-            "256": "assets/images/leaves_256.png"
+            "original": "./assets/images/leaves.png",
+            "64": "./assets/images/leaves_64.png",
+            "128": "./assets/images/leaves_128.png",
+            "256": "./assets/images/leaves_256.png"
         }
     },
     "Desc_Wood_C": {
         "className": "Desc_Wood_C",
         "slug": "wood",
+        "name": "Wood",
         "assets": {
-            "original": "assets/images/wood.png",
-            "64": "assets/images/wood_64.png",
-            "128": "assets/images/wood_128.png",
-            "256": "assets/images/wood_256.png"
+            "original": "./assets/images/wood.png",
+            "64": "./assets/images/wood_64.png",
+            "128": "./assets/images/wood_128.png",
+            "256": "./assets/images/wood_256.png"
         }
     },
     "Desc_Fabric_C": {
         "className": "Desc_Fabric_C",
         "slug": "fabric",
+        "name": "Fabric",
         "assets": {
-            "original": "assets/images/fabric.png",
-            "64": "assets/images/fabric_64.png",
-            "128": "assets/images/fabric_128.png",
-            "256": "assets/images/fabric_256.png"
+            "original": "./assets/images/fabric.png",
+            "64": "./assets/images/fabric_64.png",
+            "128": "./assets/images/fabric_128.png",
+            "256": "./assets/images/fabric_256.png"
         }
     },
     "Desc_Mycelia_C": {
         "className": "Desc_Mycelia_C",
         "slug": "mycelia",
+        "name": "Mycelia",
         "assets": {
-            "original": "assets/images/mycelia.png",
-            "64": "assets/images/mycelia_64.png",
-            "128": "assets/images/mycelia_128.png",
-            "256": "assets/images/mycelia_256.png"
+            "original": "./assets/images/mycelia.png",
+            "64": "./assets/images/mycelia_64.png",
+            "128": "./assets/images/mycelia_128.png",
+            "256": "./assets/images/mycelia_256.png"
         }
     },
     "Desc_LiquidBiofuel_C": {
         "className": "Desc_LiquidBiofuel_C",
         "slug": "liquid-biofuel",
+        "name": "Liquid Biofuel",
         "assets": {
-            "original": "assets/images/liquid-biofuel.png",
-            "64": "assets/images/liquid-biofuel_64.png",
-            "128": "assets/images/liquid-biofuel_128.png",
-            "256": "assets/images/liquid-biofuel_256.png"
+            "original": "./assets/images/liquid-biofuel.png",
+            "64": "./assets/images/liquid-biofuel_64.png",
+            "128": "./assets/images/liquid-biofuel_128.png",
+            "256": "./assets/images/liquid-biofuel_256.png"
         }
     },
     "Desc_PackagedBiofuel_C": {
         "className": "Desc_PackagedBiofuel_C",
         "slug": "packaged-liquid-biofuel",
+        "name": "Packaged Liquid Biofuel",
         "assets": {
-            "original": "assets/images/packaged-liquid-biofuel.png",
-            "64": "assets/images/packaged-liquid-biofuel_64.png",
-            "128": "assets/images/packaged-liquid-biofuel_128.png",
-            "256": "assets/images/packaged-liquid-biofuel_256.png"
+            "original": "./assets/images/packaged-liquid-biofuel.png",
+            "64": "./assets/images/packaged-liquid-biofuel_64.png",
+            "128": "./assets/images/packaged-liquid-biofuel_128.png",
+            "256": "./assets/images/packaged-liquid-biofuel_256.png"
         }
     },
     "Desc_HogParts_C": {
         "className": "Desc_HogParts_C",
         "slug": "alien-carapace",
+        "name": "Alien Carapace",
         "assets": {
-            "original": "assets/images/alien-carapace.png",
-            "64": "assets/images/alien-carapace_64.png",
-            "128": "assets/images/alien-carapace_128.png",
-            "256": "assets/images/alien-carapace_256.png"
+            "original": "./assets/images/alien-carapace.png",
+            "64": "./assets/images/alien-carapace_64.png",
+            "128": "./assets/images/alien-carapace_128.png",
+            "256": "./assets/images/alien-carapace_256.png"
         }
     },
     "Desc_SpitterParts_C": {
         "className": "Desc_SpitterParts_C",
         "slug": "alien-organs",
+        "name": "Alien Organs",
         "assets": {
-            "original": "assets/images/alien-organs.png",
-            "64": "assets/images/alien-organs_64.png",
-            "128": "assets/images/alien-organs_128.png",
-            "256": "assets/images/alien-organs_256.png"
+            "original": "./assets/images/alien-organs.png",
+            "64": "./assets/images/alien-organs_64.png",
+            "128": "./assets/images/alien-organs_128.png",
+            "256": "./assets/images/alien-organs_256.png"
         }
     },
     "Desc_FlowerPetals_C": {
         "className": "Desc_FlowerPetals_C",
         "slug": "flower-petals",
+        "name": "Flower Petals",
         "assets": {
-            "original": "assets/images/flower-petals.png",
-            "64": "assets/images/flower-petals_64.png",
-            "128": "assets/images/flower-petals_128.png",
-            "256": "assets/images/flower-petals_256.png"
+            "original": "./assets/images/flower-petals.png",
+            "64": "./assets/images/flower-petals_64.png",
+            "128": "./assets/images/flower-petals_128.png",
+            "256": "./assets/images/flower-petals_256.png"
         }
     },
     "Desc_Chainsaw_C": {
         "className": "Desc_Chainsaw_C",
         "slug": "chainsaw",
+        "name": "Chainsaw",
         "assets": {
-            "original": "assets/images/chainsaw.png",
-            "64": "assets/images/chainsaw_64.png",
-            "128": "assets/images/chainsaw_128.png",
-            "256": "assets/images/chainsaw_256.png"
+            "original": "./assets/images/chainsaw.png",
+            "64": "./assets/images/chainsaw_64.png",
+            "128": "./assets/images/chainsaw_128.png",
+            "256": "./assets/images/chainsaw_256.png"
         }
     },
     "Desc_GolfCart_C": {
         "className": "Desc_GolfCart_C",
         "slug": "factory-cart",
+        "name": "Factory Cart\u2122",
         "assets": {
-            "original": "assets/images/factory-cart.png",
-            "64": "assets/images/factory-cart_64.png",
-            "128": "assets/images/factory-cart_128.png",
-            "256": "assets/images/factory-cart_256.png"
+            "original": "./assets/images/factory-cart.png",
+            "64": "./assets/images/factory-cart_64.png",
+            "128": "./assets/images/factory-cart_128.png",
+            "256": "./assets/images/factory-cart_256.png"
         }
     },
     "BP_EquipmentDescriptorHazmatSuit_C": {
         "className": "BP_EquipmentDescriptorHazmatSuit_C",
         "slug": "hazmat-suit",
+        "name": "Hazmat Suit",
         "assets": {
-            "original": "assets/images/hazmat-suit.png",
-            "64": "assets/images/hazmat-suit_64.png",
-            "128": "assets/images/hazmat-suit_128.png",
-            "256": "assets/images/hazmat-suit_256.png"
+            "original": "./assets/images/hazmat-suit.png",
+            "64": "./assets/images/hazmat-suit_64.png",
+            "128": "./assets/images/hazmat-suit_128.png",
+            "256": "./assets/images/hazmat-suit_256.png"
         }
     },
     "BP_EquipmentDescriptorJetPack_C": {
         "className": "BP_EquipmentDescriptorJetPack_C",
         "slug": "jetpack",
+        "name": "Jetpack",
         "assets": {
-            "original": "assets/images/jetpack.png",
-            "64": "assets/images/jetpack_64.png",
-            "128": "assets/images/jetpack_128.png",
-            "256": "assets/images/jetpack_256.png"
+            "original": "./assets/images/jetpack.png",
+            "64": "./assets/images/jetpack_64.png",
+            "128": "./assets/images/jetpack_128.png",
+            "256": "./assets/images/jetpack_256.png"
         }
     },
     "BP_EquipmentDescriptorJumpingStilts_C": {
         "className": "BP_EquipmentDescriptorJumpingStilts_C",
         "slug": "blade-runners",
+        "name": "Blade Runners",
         "assets": {
-            "original": "assets/images/blade-runners.png",
-            "64": "assets/images/blade-runners_64.png",
-            "128": "assets/images/blade-runners_128.png",
-            "256": "assets/images/blade-runners_256.png"
+            "original": "./assets/images/blade-runners.png",
+            "64": "./assets/images/blade-runners_64.png",
+            "128": "./assets/images/blade-runners_128.png",
+            "256": "./assets/images/blade-runners_256.png"
         }
     },
     "Desc_RebarGunProjectile_C": {
         "className": "Desc_RebarGunProjectile_C",
         "slug": "rebar-gun",
+        "name": "Rebar Gun",
         "assets": {
-            "original": "assets/images/rebar-gun.png",
-            "64": "assets/images/rebar-gun_64.png",
-            "128": "assets/images/rebar-gun_128.png",
-            "256": "assets/images/rebar-gun_256.png"
+            "original": "./assets/images/rebar-gun.png",
+            "64": "./assets/images/rebar-gun_64.png",
+            "128": "./assets/images/rebar-gun_128.png",
+            "256": "./assets/images/rebar-gun_256.png"
         }
     },
     "BP_EquipmentDescriptorRifle_C": {
         "className": "BP_EquipmentDescriptorRifle_C",
         "slug": "rifle",
+        "name": "Rifle",
         "assets": {
-            "original": "assets/images/rifle.png",
-            "64": "assets/images/rifle_64.png",
-            "128": "assets/images/rifle_128.png",
-            "256": "assets/images/rifle_256.png"
+            "original": "./assets/images/rifle.png",
+            "64": "./assets/images/rifle_64.png",
+            "128": "./assets/images/rifle_128.png",
+            "256": "./assets/images/rifle_256.png"
         }
     },
     "BP_EquipmentDescriptorShockShank_C": {
         "className": "BP_EquipmentDescriptorShockShank_C",
         "slug": "xeno-zapper",
+        "name": "Xeno-Zapper",
         "assets": {
-            "original": "assets/images/xeno-zapper.png",
-            "64": "assets/images/xeno-zapper_64.png",
-            "128": "assets/images/xeno-zapper_128.png",
-            "256": "assets/images/xeno-zapper_256.png"
+            "original": "./assets/images/xeno-zapper.png",
+            "64": "./assets/images/xeno-zapper_64.png",
+            "128": "./assets/images/xeno-zapper_128.png",
+            "256": "./assets/images/xeno-zapper_256.png"
         }
     },
     "BP_EquipmentDescriptorStunSpear_C": {
         "className": "BP_EquipmentDescriptorStunSpear_C",
         "slug": "xeno-basher",
+        "name": "Xeno-Basher",
         "assets": {
-            "original": "assets/images/xeno-basher.png",
-            "64": "assets/images/xeno-basher_64.png",
-            "128": "assets/images/xeno-basher_128.png",
-            "256": "assets/images/xeno-basher_256.png"
+            "original": "./assets/images/xeno-basher.png",
+            "64": "./assets/images/xeno-basher_64.png",
+            "128": "./assets/images/xeno-basher_128.png",
+            "256": "./assets/images/xeno-basher_256.png"
         }
     },
     "BP_ItemDescriptorPortableMiner_C": {
         "className": "BP_ItemDescriptorPortableMiner_C",
         "slug": "portable-miner",
+        "name": "Portable Miner",
         "assets": {
-            "original": "assets/images/portable-miner.png",
-            "64": "assets/images/portable-miner_64.png",
-            "128": "assets/images/portable-miner_128.png",
-            "256": "assets/images/portable-miner_256.png"
+            "original": "./assets/images/portable-miner.png",
+            "64": "./assets/images/portable-miner_64.png",
+            "128": "./assets/images/portable-miner_128.png",
+            "256": "./assets/images/portable-miner_256.png"
         }
     },
     "BP_EquipmentDescriptorObjectScanner_C": {
         "className": "BP_EquipmentDescriptorObjectScanner_C",
         "slug": "object-scanner",
+        "name": "Object Scanner",
         "assets": {
-            "original": "assets/images/object-scanner.png",
-            "64": "assets/images/object-scanner_64.png",
-            "128": "assets/images/object-scanner_128.png",
-            "256": "assets/images/object-scanner_256.png"
+            "original": "./assets/images/object-scanner.png",
+            "64": "./assets/images/object-scanner_64.png",
+            "128": "./assets/images/object-scanner_128.png",
+            "256": "./assets/images/object-scanner_256.png"
         }
     },
     "BP_EquipmentDescriptorGasmask_C": {
         "className": "BP_EquipmentDescriptorGasmask_C",
         "slug": "gas-mask",
+        "name": "Gas Mask",
         "assets": {
-            "original": "assets/images/gas-mask.png",
-            "64": "assets/images/gas-mask_64.png",
-            "128": "assets/images/gas-mask_128.png",
-            "256": "assets/images/gas-mask_256.png"
+            "original": "./assets/images/gas-mask.png",
+            "64": "./assets/images/gas-mask_64.png",
+            "128": "./assets/images/gas-mask_128.png",
+            "256": "./assets/images/gas-mask_256.png"
         }
     },
     "BP_EquipmentDescriptorColorGun_C": {
         "className": "BP_EquipmentDescriptorColorGun_C",
         "slug": "color-gun",
+        "name": "Color Gun",
         "assets": {
-            "original": "assets/images/color-gun.png",
-            "64": "assets/images/color-gun_64.png",
-            "128": "assets/images/color-gun_128.png",
-            "256": "assets/images/color-gun_256.png"
+            "original": "./assets/images/color-gun.png",
+            "64": "./assets/images/color-gun_64.png",
+            "128": "./assets/images/color-gun_128.png",
+            "256": "./assets/images/color-gun_256.png"
         }
     },
     "BP_EquipmentDescriptorNobeliskDetonator_C": {
         "className": "BP_EquipmentDescriptorNobeliskDetonator_C",
         "slug": "nobelisk-detonator",
+        "name": "Nobelisk Detonator",
         "assets": {
-            "original": "assets/images/nobelisk-detonator.png",
-            "64": "assets/images/nobelisk-detonator_64.png",
-            "128": "assets/images/nobelisk-detonator_128.png",
-            "256": "assets/images/nobelisk-detonator_256.png"
+            "original": "./assets/images/nobelisk-detonator.png",
+            "64": "./assets/images/nobelisk-detonator_64.png",
+            "128": "./assets/images/nobelisk-detonator_128.png",
+            "256": "./assets/images/nobelisk-detonator_256.png"
         }
     },
     "Desc_Water_C": {
         "className": "Desc_Water_C",
         "slug": "water",
+        "name": "Water",
         "assets": {
-            "original": "assets/images/water.png",
-            "64": "assets/images/water_64.png",
-            "128": "assets/images/water_128.png",
-            "256": "assets/images/water_256.png"
+            "original": "./assets/images/water.png",
+            "64": "./assets/images/water_64.png",
+            "128": "./assets/images/water_128.png",
+            "256": "./assets/images/water_256.png"
         }
     },
     "Desc_OreIron_C": {
         "className": "Desc_OreIron_C",
         "slug": "iron-ore",
+        "name": "Iron Ore",
         "assets": {
-            "original": "assets/images/iron-ore.png",
-            "64": "assets/images/iron-ore_64.png",
-            "128": "assets/images/iron-ore_128.png",
-            "256": "assets/images/iron-ore_256.png"
+            "original": "./assets/images/iron-ore.png",
+            "64": "./assets/images/iron-ore_64.png",
+            "128": "./assets/images/iron-ore_128.png",
+            "256": "./assets/images/iron-ore_256.png"
         }
     },
     "Desc_OreCopper_C": {
         "className": "Desc_OreCopper_C",
         "slug": "copper-ore",
+        "name": "Copper Ore",
         "assets": {
-            "original": "assets/images/copper-ore.png",
-            "64": "assets/images/copper-ore_64.png",
-            "128": "assets/images/copper-ore_128.png",
-            "256": "assets/images/copper-ore_256.png"
+            "original": "./assets/images/copper-ore.png",
+            "64": "./assets/images/copper-ore_64.png",
+            "128": "./assets/images/copper-ore_128.png",
+            "256": "./assets/images/copper-ore_256.png"
         }
     },
     "Desc_Stone_C": {
         "className": "Desc_Stone_C",
         "slug": "limestone",
+        "name": "Limestone",
         "assets": {
-            "original": "assets/images/limestone.png",
-            "64": "assets/images/limestone_64.png",
-            "128": "assets/images/limestone_128.png",
-            "256": "assets/images/limestone_256.png"
+            "original": "./assets/images/limestone.png",
+            "64": "./assets/images/limestone_64.png",
+            "128": "./assets/images/limestone_128.png",
+            "256": "./assets/images/limestone_256.png"
         }
     },
     "Desc_Coal_C": {
         "className": "Desc_Coal_C",
         "slug": "coal",
+        "name": "Coal",
         "assets": {
-            "original": "assets/images/coal.png",
-            "64": "assets/images/coal_64.png",
-            "128": "assets/images/coal_128.png",
-            "256": "assets/images/coal_256.png"
+            "original": "./assets/images/coal.png",
+            "64": "./assets/images/coal_64.png",
+            "128": "./assets/images/coal_128.png",
+            "256": "./assets/images/coal_256.png"
         }
     },
     "Desc_LiquidOil_C": {
         "className": "Desc_LiquidOil_C",
         "slug": "crude-oil",
+        "name": "Crude Oil",
         "assets": {
-            "original": "assets/images/crude-oil.png",
-            "64": "assets/images/crude-oil_64.png",
-            "128": "assets/images/crude-oil_128.png",
-            "256": "assets/images/crude-oil_256.png"
+            "original": "./assets/images/crude-oil.png",
+            "64": "./assets/images/crude-oil_64.png",
+            "128": "./assets/images/crude-oil_128.png",
+            "256": "./assets/images/crude-oil_256.png"
         }
     },
     "Desc_OreBauxite_C": {
         "className": "Desc_OreBauxite_C",
         "slug": "bauxite",
+        "name": "Bauxite",
         "assets": {
-            "original": "assets/images/bauxite.png",
-            "64": "assets/images/bauxite_64.png",
-            "128": "assets/images/bauxite_128.png",
-            "256": "assets/images/bauxite_256.png"
+            "original": "./assets/images/bauxite.png",
+            "64": "./assets/images/bauxite_64.png",
+            "128": "./assets/images/bauxite_128.png",
+            "256": "./assets/images/bauxite_256.png"
         }
     },
     "Desc_OreGold_C": {
         "className": "Desc_OreGold_C",
         "slug": "caterium-ore",
+        "name": "Caterium Ore",
         "assets": {
-            "original": "assets/images/caterium-ore.png",
-            "64": "assets/images/caterium-ore_64.png",
-            "128": "assets/images/caterium-ore_128.png",
-            "256": "assets/images/caterium-ore_256.png"
+            "original": "./assets/images/caterium-ore.png",
+            "64": "./assets/images/caterium-ore_64.png",
+            "128": "./assets/images/caterium-ore_128.png",
+            "256": "./assets/images/caterium-ore_256.png"
         }
     },
     "Desc_OreUranium_C": {
         "className": "Desc_OreUranium_C",
         "slug": "uranium",
+        "name": "Uranium",
         "assets": {
-            "original": "assets/images/uranium.png",
-            "64": "assets/images/uranium_64.png",
-            "128": "assets/images/uranium_128.png",
-            "256": "assets/images/uranium_256.png"
+            "original": "./assets/images/uranium.png",
+            "64": "./assets/images/uranium_64.png",
+            "128": "./assets/images/uranium_128.png",
+            "256": "./assets/images/uranium_256.png"
         }
     },
     "Desc_RawQuartz_C": {
         "className": "Desc_RawQuartz_C",
         "slug": "raw-quartz",
+        "name": "Raw Quartz",
         "assets": {
-            "original": "assets/images/raw-quartz.png",
-            "64": "assets/images/raw-quartz_64.png",
-            "128": "assets/images/raw-quartz_128.png",
-            "256": "assets/images/raw-quartz_256.png"
+            "original": "./assets/images/raw-quartz.png",
+            "64": "./assets/images/raw-quartz_64.png",
+            "128": "./assets/images/raw-quartz_128.png",
+            "256": "./assets/images/raw-quartz_256.png"
         }
     },
     "Desc_Sulfur_C": {
         "className": "Desc_Sulfur_C",
         "slug": "sulfur",
+        "name": "Sulfur",
         "assets": {
-            "original": "assets/images/sulfur.png",
-            "64": "assets/images/sulfur_64.png",
-            "128": "assets/images/sulfur_128.png",
-            "256": "assets/images/sulfur_256.png"
+            "original": "./assets/images/sulfur.png",
+            "64": "./assets/images/sulfur_64.png",
+            "128": "./assets/images/sulfur_128.png",
+            "256": "./assets/images/sulfur_256.png"
         }
     },
     "Desc_PackagedWater_C": {
         "className": "Desc_PackagedWater_C",
         "slug": "packaged-water",
+        "name": "Packaged Water",
         "assets": {
-            "original": "assets/images/packaged-water.png",
-            "64": "assets/images/packaged-water_64.png",
-            "128": "assets/images/packaged-water_128.png",
-            "256": "assets/images/packaged-water_256.png"
+            "original": "./assets/images/packaged-water.png",
+            "64": "./assets/images/packaged-water_64.png",
+            "128": "./assets/images/packaged-water_128.png",
+            "256": "./assets/images/packaged-water_256.png"
         }
     },
     "Desc_CompactedCoal_C": {
         "className": "Desc_CompactedCoal_C",
         "slug": "compacted-coal",
+        "name": "Compacted Coal",
         "assets": {
-            "original": "assets/images/compacted-coal.png",
-            "64": "assets/images/compacted-coal_64.png",
-            "128": "assets/images/compacted-coal_128.png",
-            "256": "assets/images/compacted-coal_256.png"
+            "original": "./assets/images/compacted-coal.png",
+            "64": "./assets/images/compacted-coal_64.png",
+            "128": "./assets/images/compacted-coal_128.png",
+            "256": "./assets/images/compacted-coal_256.png"
         }
     },
     "Desc_UraniumCell_C": {
         "className": "Desc_UraniumCell_C",
         "slug": "encased-uranium-cell",
+        "name": "Encased Uranium Cell",
         "assets": {
-            "original": "assets/images/encased-uranium-cell.png",
-            "64": "assets/images/encased-uranium-cell_64.png",
-            "128": "assets/images/encased-uranium-cell_128.png",
-            "256": "assets/images/encased-uranium-cell_256.png"
+            "original": "./assets/images/encased-uranium-cell.png",
+            "64": "./assets/images/encased-uranium-cell_64.png",
+            "128": "./assets/images/encased-uranium-cell_128.png",
+            "256": "./assets/images/encased-uranium-cell_256.png"
         }
     },
     "Desc_UraniumPellet_C": {
         "className": "Desc_UraniumPellet_C",
         "slug": "uranium-pellet",
+        "name": "Uranium Pellet",
         "assets": {
-            "original": "assets/images/uranium-pellet.png",
-            "64": "assets/images/uranium-pellet_64.png",
-            "128": "assets/images/uranium-pellet_128.png",
-            "256": "assets/images/uranium-pellet_256.png"
+            "original": "./assets/images/uranium-pellet.png",
+            "64": "./assets/images/uranium-pellet_64.png",
+            "128": "./assets/images/uranium-pellet_128.png",
+            "256": "./assets/images/uranium-pellet_256.png"
         }
     },
     "Desc_PackagedOil_C": {
         "className": "Desc_PackagedOil_C",
         "slug": "packaged-oil",
+        "name": "Packaged Oil",
         "assets": {
-            "original": "assets/images/packaged-oil.png",
-            "64": "assets/images/packaged-oil_64.png",
-            "128": "assets/images/packaged-oil_128.png",
-            "256": "assets/images/packaged-oil_256.png"
+            "original": "./assets/images/packaged-oil.png",
+            "64": "./assets/images/packaged-oil_64.png",
+            "128": "./assets/images/packaged-oil_128.png",
+            "256": "./assets/images/packaged-oil_256.png"
         }
     },
     "BP_EquipmentDescriptorBeacon_C": {
         "className": "BP_EquipmentDescriptorBeacon_C",
         "slug": "beacon",
+        "name": "Beacon",
         "assets": {
-            "original": "assets/images/beacon.png",
-            "64": "assets/images/beacon_64.png",
-            "128": "assets/images/beacon_128.png",
-            "256": "assets/images/beacon_256.png"
+            "original": "./assets/images/beacon.png",
+            "64": "./assets/images/beacon_64.png",
+            "128": "./assets/images/beacon_128.png",
+            "256": "./assets/images/beacon_256.png"
         }
     },
     "Desc_Berry_C": {
         "className": "Desc_Berry_C",
         "slug": "paleberry",
+        "name": "Paleberry",
         "assets": {
-            "original": "assets/images/paleberry.png",
-            "64": "assets/images/paleberry_64.png",
-            "128": "assets/images/paleberry_128.png",
-            "256": "assets/images/paleberry_256.png"
+            "original": "./assets/images/paleberry.png",
+            "64": "./assets/images/paleberry_64.png",
+            "128": "./assets/images/paleberry_128.png",
+            "256": "./assets/images/paleberry_256.png"
         }
     },
     "Desc_Shroom_C": {
         "className": "Desc_Shroom_C",
         "slug": "bacon-agaric",
+        "name": "Bacon Agaric",
         "assets": {
-            "original": "assets/images/bacon-agaric.png",
-            "64": "assets/images/bacon-agaric_64.png",
-            "128": "assets/images/bacon-agaric_128.png",
-            "256": "assets/images/bacon-agaric_256.png"
+            "original": "./assets/images/bacon-agaric.png",
+            "64": "./assets/images/bacon-agaric_64.png",
+            "128": "./assets/images/bacon-agaric_128.png",
+            "256": "./assets/images/bacon-agaric_256.png"
         }
     },
     "Desc_Nut_C": {
         "className": "Desc_Nut_C",
         "slug": "beryl-nut",
+        "name": "Beryl Nut",
         "assets": {
-            "original": "assets/images/beryl-nut.png",
-            "64": "assets/images/beryl-nut_64.png",
-            "128": "assets/images/beryl-nut_128.png",
-            "256": "assets/images/beryl-nut_256.png"
+            "original": "./assets/images/beryl-nut.png",
+            "64": "./assets/images/beryl-nut_64.png",
+            "128": "./assets/images/beryl-nut_128.png",
+            "256": "./assets/images/beryl-nut_256.png"
         }
     },
     "Desc_Medkit_C": {
         "className": "Desc_Medkit_C",
         "slug": "medicinal-inhaler",
+        "name": "Medicinal Inhaler",
         "assets": {
-            "original": "assets/images/medicinal-inhaler.png",
-            "64": "assets/images/medicinal-inhaler_64.png",
-            "128": "assets/images/medicinal-inhaler_128.png",
-            "256": "assets/images/medicinal-inhaler_256.png"
+            "original": "./assets/images/medicinal-inhaler.png",
+            "64": "./assets/images/medicinal-inhaler_64.png",
+            "128": "./assets/images/medicinal-inhaler_128.png",
+            "256": "./assets/images/medicinal-inhaler_256.png"
         }
     },
     "Desc_Parachute_C": {
         "className": "Desc_Parachute_C",
         "slug": "parachute",
+        "name": "Parachute",
         "assets": {
-            "original": "assets/images/parachute.png",
-            "64": "assets/images/parachute_64.png",
-            "128": "assets/images/parachute_128.png",
-            "256": "assets/images/parachute_256.png"
+            "original": "./assets/images/parachute.png",
+            "64": "./assets/images/parachute_64.png",
+            "128": "./assets/images/parachute_128.png",
+            "256": "./assets/images/parachute_256.png"
         }
     },
     "Desc_NuclearFuelRod_C": {
         "className": "Desc_NuclearFuelRod_C",
         "slug": "nuclear-fuel-rod",
+        "name": "Nuclear Fuel Rod",
         "assets": {
-            "original": "assets/images/nuclear-fuel-rod.png",
-            "64": "assets/images/nuclear-fuel-rod_64.png",
-            "128": "assets/images/nuclear-fuel-rod_128.png",
-            "256": "assets/images/nuclear-fuel-rod_256.png"
+            "original": "./assets/images/nuclear-fuel-rod.png",
+            "64": "./assets/images/nuclear-fuel-rod_64.png",
+            "128": "./assets/images/nuclear-fuel-rod_128.png",
+            "256": "./assets/images/nuclear-fuel-rod_256.png"
         }
     },
     "Desc_NuclearWaste_C": {
         "className": "Desc_NuclearWaste_C",
         "slug": "nuclear-waste",
+        "name": "Nuclear Waste",
         "assets": {
-            "original": "assets/images/nuclear-waste.png",
-            "64": "assets/images/nuclear-waste_64.png",
-            "128": "assets/images/nuclear-waste_128.png",
-            "256": "assets/images/nuclear-waste_256.png"
+            "original": "./assets/images/nuclear-waste.png",
+            "64": "./assets/images/nuclear-waste_64.png",
+            "128": "./assets/images/nuclear-waste_128.png",
+            "256": "./assets/images/nuclear-waste_256.png"
         }
     }
 }
